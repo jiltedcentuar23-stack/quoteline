@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quoteline — Movie Quotes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0a12;
+    --panel: #12121f;
+    --red: #e82127;
+    --blue: #2a6fd6;
+    --glow-red: rgba(232, 33, 39, 0.45);
+    --glow-blue: rgba(42, 111, 214, 0.40);
+    --fg: #f4f4f8;
+    --muted: #8a8aa3;
+  }
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    min-height: 100vh;
+  }
+  .topbar {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 18px 32px; background: var(--panel); border-bottom: 1px solid #1e1e30;
+  }
+  .logo { font-family: 'Archivo Black', sans-serif; font-size: 28px; letter-spacing: 2px; display: flex; }
+  .logo .s { color: var(--red); text-shadow: 0 0 18px var(--glow-red); }
+  .logo .n { color: var(--blue); text-shadow: 0 0 18px var(--glow-blue); }
+  .logo .a { color: var(--red); text-shadow: 0 0 18px var(--glow-red); }
+  .logo .c { color: var(--blue); text-shadow: 0 0 18px var(--glow-blue); }
+  .logo .k { color: var(--red); text-shadow: 0 0 18px var(--glow-red); }
+  .logo .b { color: var(--blue); text-shadow: 0 0 18px var(--glow-blue); }
+  .logo .a2 { color: var(--red); text-shadow: 0 0 18px var(--glow-red); }
+  .logo .r { color: var(--blue); text-shadow: 0 0 18px var(--glow-blue); }
+  .tagline { color: var(--muted); font-size: 13px; letter-spacing: 1px; }
+  .nav-pill {
+    background: linear-gradient(90deg, var(--red), var(--blue));
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+    font-weight: 700; font-size: 13px; letter-spacing: 1px;
+    padding: 6px 14px; border-radius: 20px; border: 1px solid #2a2a44;
+  }
+  .main { max-width: 760px; margin: 0 auto; padding: 40px 24px 60px; }
+  .day-label { text-align: center; font-size: 12px; letter-spacing: 3px; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+  .day-count { text-align: center; font-family: 'Archivo Black', sans-serif; font-size: 15px; letter-spacing: 2px; color: var(--fg); margin-bottom: 28px; }
+  .cats { display: flex; gap: 10px; justify-content: center; margin-bottom: 32px; flex-wrap: wrap; }
+  .cat-btn {
+    padding: 10px 22px; border-radius: 30px; border: 1px solid #2a2a44;
+    background: var(--panel); color: var(--muted); font-family: 'Inter', sans-serif;
+    font-weight: 600; font-size: 14px; cursor: pointer; transition: all 0.2s; letter-spacing: 0.5px;
+  }
+  .cat-btn:hover { color: var(--fg); border-color: var(--red); }
+  .cat-btn.active {
+    background: linear-gradient(90deg, var(--red), var(--blue)); color: #fff;
+    border-color: transparent; box-shadow: 0 0 20px var(--glow-red), 0 0 20px var(--glow-blue);
+  }
+  .quote-card {
+    position: relative; background: var(--panel); border-radius: 16px;
+    padding: 44px 40px 36px; border: 1px solid #1e1e30; overflow: hidden;
+  }
+  .quote-card::before {
+    content: '\201C'; position: absolute; top: 10px; left: 20px;
+    font-family: 'Archivo Black', serif; font-size: 120px; line-height: 1;
+    background: linear-gradient(135deg, var(--red), var(--blue));
+    -webkit-background-clip: text; background-clip: text; color: transparent; opacity: 0.25;
+  }
+  .quote-text {
+    font-size: 22px; font-weight: 500; line-height: 1.5; color: var(--fg);
+    position: relative; z-index: 1; margin-bottom: 24px;
+  }
+  .closing-quote {
+    font-family: 'Archivo Black', serif; font-size: 30px; line-height: 1;
+    background: linear-gradient(135deg, var(--blue), var(--red));
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+    opacity: 0.85; margin-left: 2px; user-select: none;
+  }
+  .quote-meta { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; position: relative; z-index: 1; }
+  .attribution { font-size: 14px; }
+  .attribution .speaker { color: var(--red); font-weight: 700; text-shadow: 0 0 12px var(--glow-red); }
+  .attribution .source { color: var(--muted); }
+  .attribution .year { color: var(--blue); font-weight: 600; }
+  .cat-badge {
+    font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase;
+    padding: 4px 12px; border-radius: 12px; background: #1e1e30; color: var(--muted);
+    border: 1px solid #2a2a44;
+  }
+  .watch-row { margin-top: 28px; padding-top: 22px; border-top: 1px solid #1e1e30; position: relative; z-index: 1; }
+  .watch-label { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; display: flex; align-items: center; gap: 6px; }
+  .watch-label .check { font-size: 11px; }
+  .watch-chips { display: flex; gap: 8px; flex-wrap: wrap; }
+  .watch-disclaimer { margin-top: 10px; font-size: 11px; color: var(--muted); opacity: 0.8; line-height: 1.4; }
+  .watch-disclaimer a { color: var(--blue); text-decoration: none; }
+  .chip {
+    display: flex; align-items: center; gap: 6px; padding: 7px 14px; border-radius: 8px;
+    background: #1a1a2e; border: 1px solid #2a2a44; font-size: 13px; font-weight: 500;
+    color: var(--fg); cursor: pointer; transition: all 0.15s; text-decoration: none;
+  }
+  .chip:hover { transform: translateY(-1px); }
+  .chip.tubi:hover { border-color: #f5a623; }
+  .chip.max:hover { border-color: #0080ff; }
+  .chip.prime:hover { border-color: #00a8e1; }
+  .chip.netflix:hover { border-color: #e50914; }
+  .chip.itunes:hover { border-color: #fa58c7; }
+  .chip.other:hover { border-color: var(--blue); }
+  .chip .dot { width: 8px; height: 8px; border-radius: 50%; }
+  .chip.tubi .dot { background: #f5a623; }
+  .chip.max .dot { background: #0080ff; }
+  .chip.prime .dot { background: #00a8e1; }
+  .chip.netflix .dot { background: #e50914; }
+  .chip.itunes .dot { background: #fa58c7; }
+  .stub-notice {
+    margin-top: 28px; padding: 14px 18px; border-radius: 8px;
+    background: rgba(232,33,39,0.10); border: 1px solid rgba(232,33,39,0.4);
+    color: var(--muted); font-size: 13px; position: relative; z-index: 1;
+  }
+  .stub-notice strong { color: var(--red); }
+  .actions { display: flex; gap: 12px; justify-content: center; margin-top: 32px; }
+  .btn {
+    padding: 14px 36px; border-radius: 12px; font-family: 'Inter', sans-serif;
+    font-weight: 700; font-size: 15px; letter-spacing: 0.5px; cursor: pointer; border: none; transition: all 0.2s;
+  }
+  .btn-primary {
+    background: linear-gradient(90deg, var(--red), var(--blue)); color: #fff;
+    box-shadow: 0 0 24px var(--glow-red), 0 0 24px var(--glow-blue);
+  }
+  .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 0 36px var(--glow-red), 0 0 36px var(--glow-blue); }
+  .btn-ghost { background: transparent; color: var(--muted); border: 1px solid #2a2a44; }
+  .btn-ghost:hover { color: var(--fg); border-color: var(--red); }
+  .footer { text-align: center; padding: 24px; color: var(--muted); font-size: 12px; letter-spacing: 1px; border-top: 1px solid #1e1e30; margin-top: 40px; }
+  .footer a { color: var(--blue); text-decoration: none; }
+</style>
+</head>
+<body>
+  <div class="topbar">
+    <div>
+      <div class="logo">
+        <span class="s">S</span><span class="n">N</span><span class="a">A</span><span class="c">C</span><span class="k">K</span><span class="b">B</span><span class="a2">A</span><span class="r">R</span>
+      </div>
+      <div class="tagline">ONE QUOTE A DAY. KEEP MOVING.</div>
+    </div>
+    <div class="nav-pill">DAILY ROTATION</div>
+  </div>
+
+  <div class="main">
+    <div class="day-label">Today's Pick</div>
+    <div class="day-count" id="dayCount">DAY --- / 365</div>
+
+    <div class="cats" id="cats">
+      <button class="cat-btn" data-cat="serious">Serious</button>
+      <button class="cat-btn" data-cat="funny">Funny</button>
+      <button class="cat-btn" data-cat="motivational">Motivational</button>
+      <button class="cat-btn active" data-cat="random">Random</button>
+    </div>
+
+    <div class="quote-card">
+      <div class="quote-text" id="quoteText"></div>
+      <div class="quote-meta">
+        <div class="attribution" id="attribution"></div>
+        <div class="cat-badge" id="catBadge"></div>
+      </div>
+      <div class="watch-row" id="watchRow">
+        <div class="watch-label">Watch it on <span class="check" id="watchAsOf"></span></div>
+        <div class="watch-chips" id="watchChips"></div>
+        <div class="watch-disclaimer">Availability changes monthly &middot; last checked <span id="disclaimerDate">today</span>. If a service doesn't have it, <a href="https://www.justwatch.com" target="_blank" rel="noopener">check JustWatch</a>.</div>
+      </div>
+      <div class="stub-notice" id="stubNotice" style="display:none"></div>
+    </div>
+
+    <div class="actions">
+      <button class="btn btn-ghost" id="shareBtn">Share</button>
+      <button class="btn btn-primary" id="nextBtn">NEXT QUOTE &rarr;</button>
+    </div>
+  </div>
+
+  <div class="footer">
+    365 DAILY PICKS &middot; UPDATED EVERY 24H &middot; <a href="#">ABOUT</a> &middot; <a href="#">SUBMIT A QUOTE</a>
+  </div>
+
+<script>
+  // ── Daily rotation: day-of-year → quote index ──
+  function dayOfYear(date) {
+    const start = new Date(date.getFullYear(), 0, 0);
+    const diff = date - start;
+    return Math.floor(diff / 86400000);
+  }
+
+  let quotes = [];
+  let activeCat = 'random';
+  let cursor = 0; // index into the filtered pool
+
+  const quoteText = document.getElementById('quoteText');
+  const attribution = document.getElementById('attribution');
+  const catBadge = document.getElementById('catBadge');
+  const watchRow = document.getElementById('watchRow');
+  const watchChips = document.getElementById('watchChips');
+  const stubNotice = document.getElementById('stubNotice');
+  const dayCount = document.getElementById('dayCount');
+
+  const CHIP_CLASS = { 'Tubi':'tubi', 'Max':'max', 'Prime Video':'prime', 'Netflix':'netflix', 'Apple TV':'itunes' };
+  const SERVICE_URLS = {
+    'Tubi': 'https://tubitv.com',
+    'Max': 'https://www.max.com',
+    'Prime Video': 'https://www.primevideo.com',
+    'Netflix': 'https://www.netflix.com',
+    'Apple TV': 'https://tv.apple.com',
+    'Hulu': 'https://www.hulu.com',
+    'Disney+': 'https://www.disneyplus.com',
+    'Peacock': 'https://www.peacocktv.com',
+    'Paramount+': 'https://www.paramountplus.com',
+    'Pluto TV': 'https://pluto.tv',
+    'Plex': 'https://www.plex.tv',
+    'Philo': 'https://www.philo.com',
+    'BBC America': 'https://www.bbc.com/america',
+    'AMC+': 'https://amcplus.com',
+    'MGM+': 'https://www.mgmplus.com',
+    'Fawesome': 'https://fawesome.tv',
+    'The Roku Channel': 'https://therokuchannel.roku.com',
+    'Paramount': 'https://www.paramountplus.com'
+  };
+  function dotChar(name) {
+    if (name === 'Apple TV') return '+';
+    return name.charAt(0);
+  }
+
+  function filteredPool() {
+    // Only real (verified) quotes are shown; stubs are excluded from rotation.
+    const pool = quotes.filter(q => q.verified);
+    if (activeCat === 'random') return pool;
+    return pool.filter(q => q.categories.includes(activeCat));
+  }
+
+  function render() {
+    const pool = filteredPool();
+    if (pool.length === 0) {
+      quoteText.innerHTML = '<span style="color:var(--muted)">No verified quotes in this category yet. Curation sprint incoming.</span><span class="closing-quote">&rdquo;</span>';
+      attribution.innerHTML = '';
+      catBadge.textContent = activeCat.toUpperCase();
+      watchRow.style.display = 'none';
+      stubNotice.style.display = 'none';
+      return;
+    }
+    cursor = cursor % pool.length;
+    const q = pool[cursor];
+    quoteText.innerHTML = escapeHtml(q.quote) + '<span class="closing-quote">&rdquo;</span>';
+    attribution.innerHTML =
+      '<span class="speaker">' + escapeHtml(q.speaker) + '</span>' +
+      '<span class="source">&nbsp;as&nbsp; ' + escapeHtml(q.character) + ' &middot; ' + escapeHtml(q.source) + '</span>' +
+      '<span class="year"> (' + q.year + ')</span>';
+    catBadge.textContent = (q.categories[0] || 'random').toUpperCase();
+    stubNotice.style.display = 'none';
+
+    if (q.streaming && q.streaming.length) {
+      watchRow.style.display = 'block';
+      watchChips.innerHTML = q.streaming.map(s => {
+        const cls = CHIP_CLASS[s] || 'other';
+        const href = SERVICE_URLS[s] || '#';
+        const title = href === '#' ? 'No link for this service yet' : 'Open ' + s;
+        return '<a class="chip ' + cls + '" href="' + href + '" target="_blank" rel="noopener" title="' + title + '"><span class="dot"></span>' + escapeHtml(s) + '</a>';
+      }).join('');
+      const checked = q.streaming_checked ? fmtDate(q.streaming_checked) : fmtDate(new Date().toISOString().slice(0,10));
+      document.getElementById('disclaimerDate').textContent = checked;
+    } else {
+      watchRow.style.display = 'none';
+      watchChips.innerHTML = '';
+    }
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function fmtDate(iso) {
+    const d = new Date(iso + 'T00:00:00');
+    if (isNaN(d)) return iso;
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  }
+
+  // ── Wire up ──
+  document.getElementById('cats').addEventListener('click', e => {
+    const btn = e.target.closest('.cat-btn');
+    if (!btn) return;
+    document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeCat = btn.dataset.cat;
+    cursor = 0;
+    render();
+  });
+
+  document.getElementById('nextBtn').addEventListener('click', () => {
+    const pool = filteredPool();
+    if (pool.length) cursor = (cursor + 1) % pool.length;
+    render();
+  });
+
+  document.getElementById('shareBtn').addEventListener('click', () => {
+    const text = quoteText.textContent.trim();
+    const attr = attribution.textContent.trim();
+    const msg = '"' + text + '"\n\n— ' + attr;
+    if (navigator.share) { navigator.share({ text: msg }).catch(()=>{}); }
+    else { navigator.clipboard.writeText(msg); alert('Copied to clipboard!'); }
+  });
+
+  // ── Load data ──
+  fetch('quotes.json')
+    .then(r => r.json())
+    .then(data => {
+      quotes = data.quotes || [];
+      const doy = dayOfYear(new Date());
+      dayCount.textContent = 'DAY ' + String(doy).padStart(3,'0') + ' / 365';
+      // Default active category: the one matching today's daily pick
+      render();
+    })
+    .catch(err => {
+      dayCount.textContent = 'DATA LOAD ERROR';
+      quoteText.innerHTML = 'Could not load quotes.json — ' + escapeHtml(String(err)) + '<span class="closing-quote">&rdquo;</span>';
+    });
+</script>
+</body>
+</html>
