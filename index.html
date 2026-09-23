@@ -287,7 +287,7 @@ const EMBEDDED_QUOTES = [{"id": 1, "quote": "Enough is enough. I've had it with 
   });
 
   function boot(data){
-    quotes = (data.quotes || data).filter(q => q.verified);
+    quotes = (data.quotes || data).filter(q => q.quote);
     updateCatCounts(); stats(); render();
   }
   if (typeof EMBEDDED_QUOTES !== 'undefined' && EMBEDDED_QUOTES.length) boot({quotes:EMBEDDED_QUOTES});
