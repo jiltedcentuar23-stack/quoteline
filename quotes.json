@@ -14896,6 +14896,1292 @@
         "Prime Video"
       ],
       "streaming_checked": true
+    },
+    {
+      "id": 1018,
+      "quote": "I am serious. And don't call me 'Shirley.'",
+      "speaker": "",
+      "character": "",
+      "source": "Airplane",
+      "year": 1980,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1019,
+      "quote": "I'm your density!",
+      "speaker": "G",
+      "character": "eorge McFly",
+      "source": "Back to the Future",
+      "year": 1985,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Netflix"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1020,
+      "quote": "We're not just doing this for money; we're doing this for a sh*tload of money.",
+      "speaker": "Lonestar",
+      "character": "Lonestar",
+      "source": "Spaceballs",
+      "year": 1987,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1021,
+      "quote": "I thought I had mono once for an entire year. It turned out I was just really bored.",
+      "speaker": "W",
+      "character": "ayne Campbell",
+      "source": "Wayne's World",
+      "year": 1992,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1022,
+      "quote": "There's something I've always wanted to tell you, and I think you're ready to hear it: you're not very pretty, and you're not very bright.",
+      "speaker": "Fiona",
+      "character": "Fiona",
+      "source": "A Cinderella Story",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1023,
+      "quote": "It's a waste of time to try and fix a boy. It's better to just accept a guy's flaws.",
+      "speaker": "L",
+      "character": "isa Frankenstein",
+      "source": "Lisa Frankenstein",
+      "year": 2024,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1024,
+      "quote": "I fart in your general direction. Your mother was a hamster, and your father smelt of elderberries.",
+      "speaker": "French soldier",
+      "character": "French soldier",
+      "source": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1025,
+      "quote": "Now you see that evil will always triumph because good is dumb.",
+      "speaker": "D",
+      "character": "ark Helmut",
+      "source": "Spaceballs",
+      "year": 1987,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1026,
+      "quote": "We're not just doing this for money; we're doing this for a sh*tload of money.",
+      "speaker": "L",
+      "character": "onestar",
+      "source": "Spaceballs",
+      "year": 1987,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1027,
+      "quote": "Well, f*ck me gently with a chainsaw. Do I look like Mother Teresa?",
+      "speaker": "Kim Walker",
+      "character": "Heather Chandler",
+      "source": "Heathers",
+      "year": 1989,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1028,
+      "quote": "You're killing me, Smalls.",
+      "speaker": "H",
+      "character": "am Porter",
+      "source": "The Sandlot",
+      "year": 1993,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1029,
+      "quote": "This one time, at band camp …",
+      "speaker": "M",
+      "character": "ichelle",
+      "source": "American Pie",
+      "year": 1999,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1030,
+      "quote": "What? Like it's hard?",
+      "speaker": "E",
+      "character": "lle Woods",
+      "source": "Legally Blonde",
+      "year": 2003,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1031,
+      "quote": "That escalated quickly.",
+      "speaker": "R",
+      "character": "on Burgundy",
+      "source": "Anchorman",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Netflix"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1032,
+      "quote": "I have to go pee due to boredom.",
+      "speaker": "S",
+      "character": "cott Pilgrim",
+      "source": "Scott Pilgrim vs. The World",
+      "year": 2010,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1033,
+      "quote": "I'm a man!\" Osgood: \"Well, nobody's perfect.",
+      "speaker": "Joe E. Brown",
+      "character": "",
+      "source": "Some Like It Hot",
+      "year": 1959,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1034,
+      "quote": "I am serious. And don't call me 'Shirley.'",
+      "speaker": "Dr. Rumack",
+      "character": "Dr. Rumack",
+      "source": "Airplane!",
+      "year": 1980,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1035,
+      "quote": "Two dollars!",
+      "speaker": "J",
+      "character": "ohnny the paperboy",
+      "source": "Better Off Dead",
+      "year": 1985,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1036,
+      "quote": "You're a virgin who can't drive.\" Cher: \"That was way harsh, Tai.",
+      "speaker": "Tai",
+      "character": "",
+      "source": "Clueless",
+      "year": 1995,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1037,
+      "quote": "It's pronounced 'Fronkensteen.'",
+      "speaker": "Gene Wilder",
+      "character": "Dr. Frederick Frankenstein",
+      "source": "Young Frankenstein",
+      "year": 1974,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1038,
+      "quote": "As if.",
+      "speaker": "C",
+      "character": "her",
+      "source": "Clueless",
+      "year": 1995,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1039,
+      "quote": "Bend … and snap!",
+      "speaker": "E",
+      "character": "lle Woods",
+      "source": "Legally Blonde",
+      "year": 2001,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1040,
+      "quote": "Bye, Felicia.",
+      "speaker": "I",
+      "character": "ce Cube",
+      "source": "Friday",
+      "year": 1995,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1041,
+      "quote": "Eat my shorts.",
+      "speaker": "B",
+      "character": "ender",
+      "source": "The Breakfast Club",
+      "year": 1985,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1042,
+      "quote": "Exsqueeze me?",
+      "speaker": "W",
+      "character": "ayne Campbell",
+      "source": "Wayne's World",
+      "year": 1992,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1043,
+      "quote": "You keep using that word. I do not think it means what you think it means.",
+      "speaker": "I",
+      "character": "nigo Montoya",
+      "source": "The Princess Bride",
+      "year": 1983,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Hulu"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1044,
+      "quote": "Hello, my name is Inigo Montoya. You killed my father. Prepare to die.",
+      "speaker": "I",
+      "character": "nigo Montoya",
+      "source": "The Princess Bride",
+      "year": 1983,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Hulu"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1045,
+      "quote": "I know you are, but what am I?",
+      "speaker": "P",
+      "character": "ee-wee Herman",
+      "source": "Pee-wee's Big Adventure",
+      "year": 1985,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1046,
+      "quote": "There's a lotta things about me you don't know anything about, Dottie. Things you wouldn't understand. Things you couldn't understand. Things you shouldn't understand.",
+      "speaker": "P",
+      "character": "ee-wee Herman",
+      "source": "Pee-wee's Big Adventure",
+      "year": 1985,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1047,
+      "quote": "Do you have any dreams?\" Pee-wee Herman: \"Yeah. I'm all alone. I'm rolling a big doughnut, and there's a snake wearing a vest…",
+      "speaker": "Simone",
+      "character": "",
+      "source": "Pee-wee's Big Adventure",
+      "year": 1985,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1048,
+      "quote": "Bueller? Bueller?",
+      "speaker": "E",
+      "character": "conomics teacher",
+      "source": "Ferris Bueller's Day Off",
+      "year": 1986,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1049,
+      "quote": "It's the same old story. Boy finds girl. Boy loses girl. Girl finds boy. Boy forgets girl. Boy remembers girl. Girl dies in a tragic blimp accident over the Orange Bowl on New Year's Day.",
+      "speaker": "L",
+      "character": "t. Frank Drebin",
+      "source": "The Naked Gun",
+      "year": 1988,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1050,
+      "quote": "What is your damage?",
+      "speaker": "V",
+      "character": "eronica Sawyer",
+      "source": "Heathers",
+      "year": 1988,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1051,
+      "quote": "Oh, right, to call you stupid would be an insult to stupid people. … I've worn dresses with higher IQs.",
+      "speaker": "W",
+      "character": "anda",
+      "source": "A Fish Called Wanda",
+      "year": 1988,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1052,
+      "quote": "I hate cul-de-sacs. There's only one way out, and the people are kind of weird.",
+      "speaker": "V",
+      "character": "ic the garbageman",
+      "source": "The 'Burbs",
+      "year": 1989,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1053,
+      "quote": "I wouldn't let you sleep in my room if you were growing on my a**.",
+      "speaker": "Devin Ratray",
+      "character": "Buzz McCallister",
+      "source": "Home Alone",
+      "year": 1990,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1054,
+      "quote": "I thought I had mono once for an entire year. It turned out I was just really bored.",
+      "speaker": "W",
+      "character": "ayne Campbell",
+      "source": "Wayne's World",
+      "year": 1992,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1055,
+      "quote": "If Benjamin were an ice cream flavor, he'd be pralines and d*ck.",
+      "speaker": "G",
+      "character": "arth Algar",
+      "source": "Wayne's World",
+      "year": 1992,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1056,
+      "quote": "She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+      "speaker": "H",
+      "character": "arry Dunne",
+      "source": "Dumb and Dumber",
+      "year": 1994,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1057,
+      "quote": "According to the map, we've only gone four inches.",
+      "speaker": "H",
+      "character": "arry Dunne",
+      "source": "Dumb and Dumber",
+      "year": 1994,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1058,
+      "quote": "Tardiness is not something you can do all on your own. Many, many people contributed to my tardiness. I would like to thank my parents for never giving me a ride to school, the L.A. city bus driver for taking a chance on an unknown kid. And, last but not least, the wonderful crew of McDonald's for spending hours making those Egg McMuffins, without which I might never be tardy.",
+      "speaker": "T",
+      "character": "ravis",
+      "source": "Clueless",
+      "year": 1995,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1059,
+      "quote": "Fat guy in a little coat.",
+      "speaker": "T",
+      "character": "ommy",
+      "source": "Tommy Boy",
+      "year": 1995,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1060,
+      "quote": "My childhood was typical. Summers in Rangoon ... luge lessons. In the spring, we'd make meat helmets. When I was insolent, I was placed in a burlap bag and beaten with reeds. Pretty standard, really.",
+      "speaker": "D",
+      "character": "r. Evil",
+      "source": "Austin Powers: International Man of Mystery",
+      "year": 1997,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1061,
+      "quote": "Don't kill anybody for a few days. See what it feels like.\" Martin Q. Blank: \"All right, I'll give it a shot.\" Dr. Oatman: \"No, don't give it a shot! Don't shoot anything!",
+      "speaker": "Dr. Oatman",
+      "character": "",
+      "source": "Grosse Pointe Blank",
+      "year": 1997,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1062,
+      "quote": "I'm the Dude. So, that's what you call me, you know. That or His Dudeness, or Duder, or El Duderino if you're not into the whole brevity thing.",
+      "speaker": "T",
+      "character": "he Dude",
+      "source": "The Big Lebowski",
+      "year": 1998,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1063,
+      "quote": "Mamma says that alligators are ornery because they've got all them teeth, but no toothbrush.",
+      "speaker": "B",
+      "character": "obby Boucher",
+      "source": "The Waterboy",
+      "year": 1998,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1064,
+      "quote": "Get in my belly!",
+      "speaker": "F",
+      "character": "at B*stard",
+      "source": "Austin Powers: The Spy Who Shagged Me",
+      "year": 1999,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1065,
+      "quote": "We are Sex Bob-Omb and we are here to make you think about death and get sad and stuff.",
+      "speaker": "S",
+      "character": "cott Pilgrim",
+      "source": "Scott Pilgrim vs. The World",
+      "year": 2010,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1066,
+      "quote": "You have 3 seconds to get back to your seat.\" Annie: \"No one can get anywhere in 3 seconds. You're setting me up for a loss already.",
+      "speaker": "Flight Attendant Steve",
+      "character": "",
+      "source": "Bridesmaids",
+      "year": 2011,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1067,
+      "quote": "You read my diary?\" Brynn: \"At first I did not know it was your diary, I thought it was a very sad handwritten book.",
+      "speaker": "Annie",
+      "character": "",
+      "source": "Bridesmaids",
+      "year": 2011,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1068,
+      "quote": "Why did you order raisin bran?\" Pat: \"Why did you order tea?\" Tiffany: Because you ordered raisin bran.\" Pat: \"I ordered raisin bran because I didn't want there to be any mistaking it for a date.\" Tiffany: \"It can still be a date if you order raisin bran.",
+      "speaker": "Tiffany",
+      "character": "",
+      "source": "Silver Linings Playbook",
+      "year": 2012,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1069,
+      "quote": "Take your hands off my lobby boy!",
+      "speaker": "M",
+      "character": ". Gustave",
+      "source": "The Grand Budapest Hotel",
+      "year": 2014,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1070,
+      "quote": "I'm about to do to you what Limp Bizkit did to music in the late '90s.",
+      "speaker": "D",
+      "character": "eadpool",
+      "source": "Deadpool",
+      "year": 2016,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1071,
+      "quote": "You guys, the truth is way more depressing. They are not even smart enough to be as evil as you're giving them credit for.",
+      "speaker": "K",
+      "character": "ate Dibiasky",
+      "source": "Don't Look Up",
+      "year": 2021,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1072,
+      "quote": "You are not unlovable. There is always something to love. Even in a stupid, stupid universe where we have hot dogs for fingers, we get very good with our feet.",
+      "speaker": "E",
+      "character": "velyn Wang",
+      "source": "Everything Everywhere All at Once",
+      "year": 2022,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1073,
+      "quote": "Annie, you may be a Black Republican, but you're the smartest out of all of us.",
+      "speaker": "J",
+      "character": "osie",
+      "source": "Bottoms",
+      "year": 2023,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1074,
+      "quote": "Could the ugly, untalented gays please report to the principal's office?",
+      "speaker": "P",
+      "character": "rincipal Meyers",
+      "source": "Bottoms",
+      "year": 2023,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1075,
+      "quote": "That's Starlight Rosebud Hella Good Girl Gonna Need a Big Bank. But I just call her Niblets Corn.",
+      "speaker": "L",
+      "character": "isa Frankenstein",
+      "source": "Lisa Frankenstein",
+      "year": 2024,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1076,
+      "quote": "It's a waste of time to try and fix a boy. It's better to just accept a guy's flaws.",
+      "speaker": "L",
+      "character": "isa Frankenstein",
+      "source": "Lisa Frankenstein",
+      "year": 2024,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1077,
+      "quote": "I can see the future. And it's full of pals helping pals.",
+      "speaker": "Craig",
+      "character": "Craig",
+      "source": "Friendship",
+      "year": 2025,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1078,
+      "quote": "I'm your density!",
+      "speaker": "G",
+      "character": "eorge McFly",
+      "source": "Back to the Future",
+      "year": 1985,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Netflix"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1079,
+      "quote": "I'm pretty sure there's a lot more to life than being really, really good looking. And I plan on finding out what that is.",
+      "speaker": "D",
+      "character": "erek Zoolander",
+      "source": "Zoolander",
+      "year": 2001,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1080,
+      "quote": "I am a cotton-headed ninny-muggins!",
+      "speaker": "B",
+      "character": "uddy",
+      "source": "Elf",
+      "year": 2003,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1081,
+      "quote": "I don't know how to put this, but I'm kind of a big deal.",
+      "speaker": "R",
+      "character": "on Burgundy",
+      "source": "Anchorman",
+      "year": 2004,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Netflix"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1082,
+      "quote": "Don't be jealous that I've been chatting online with babes all day.",
+      "speaker": "K",
+      "character": "ip Dynamite",
+      "source": "Napoleon Dynamite",
+      "year": 2004,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1083,
+      "quote": "You know who else has a weight issue? Me. But when I get up there and start doing my thing, people worship me! Because I'm sexy! And chubby.",
+      "speaker": "D",
+      "character": "ewey Finn",
+      "source": "School of Rock",
+      "year": 2004,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1084,
+      "quote": "I go for a look which I call 'Dead-But-Delicious.'",
+      "speaker": "V",
+      "character": "ladislav",
+      "source": "What We Do in the Shadows",
+      "year": 2014,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1085,
+      "quote": "What' up, y'all? I'm the last man on Earth. Shit's all fucked up. Don't forget to like and subscribe. We out here.",
+      "speaker": "J",
+      "character": "ason Orlean",
+      "source": "Don't Look Up",
+      "year": 2021,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1086,
+      "quote": "I really value when people use violence for me, it's actually one of my love languages.",
+      "speaker": "I",
+      "character": "sabel",
+      "source": "Bottoms",
+      "year": 2023,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1087,
+      "quote": "I'm on the edge of life, and the view is gorgeous.",
+      "speaker": "Craig",
+      "character": "Craig",
+      "source": "Friendship",
+      "year": 2025,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1088,
+      "quote": "One man's toxic sludge is another man's potpourri!",
+      "speaker": "T",
+      "character": "he Grinch",
+      "source": "How the Grinch Stole Christmas",
+      "year": 2000,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1089,
+      "quote": "I have nipples, Greg, could you milk me?",
+      "speaker": "J",
+      "character": "ack Byrnes",
+      "source": "Meet the Parents",
+      "year": 2000,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1090,
+      "quote": "I do not need a blind date. Particularly not with some verbally incontinent spinster who drinks like a fish, smokes like a chimney, and dresses like her mother.",
+      "speaker": "M",
+      "character": "ark Darcy",
+      "source": "Bridget Jones's Diary",
+      "year": 2001,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1091,
+      "quote": "Moley, moley, moley, moley, moley!",
+      "speaker": "A",
+      "character": "ustin Powers",
+      "source": "Austin Powers in Goldmember",
+      "year": 2002,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1092,
+      "quote": "I am a nice shark, not a mindless eating machine. If I am to change this image, I must first change myself. Fish are friends, not food.",
+      "speaker": "B",
+      "character": "ruce",
+      "source": "Finding Nemo",
+      "year": 2003,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1093,
+      "quote": "This morning was good…. Then I got up.",
+      "speaker": "E",
+      "character": "van",
+      "source": "Freaky Friday",
+      "year": 2003,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1094,
+      "quote": "I just decided to give up on myself and become a teacher because those that can't do, teach. And those that can't teach, teach gym.",
+      "speaker": "D",
+      "character": "ewey Finn",
+      "source": "School of Rock",
+      "year": 2004,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1095,
+      "quote": "Math is a wonderful thing. Math is a really cool thing. So get off your ath, let's do some math. Math, math, math, math, math.",
+      "speaker": "D",
+      "character": "ewey Finn",
+      "source": "School of Rock",
+      "year": 2004,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1096,
+      "quote": "I'm sorry I laughed at you that time you got diarrhea at Barnes & Noble. And I'm sorry I told everyone about it. And I'm sorry for repeating it now.",
+      "speaker": "K",
+      "character": "aren Smith",
+      "source": "Mean Girls",
+      "year": 2004,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1097,
+      "quote": "You know it costs a fortune to fly that stuff in from Norwegia.",
+      "speaker": "F",
+      "character": "iona",
+      "source": "A Cinderella Story",
+      "year": 2004,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1098,
+      "quote": "There's something I've always wanted to tell you and I think you're ready to hear it. You're not very pretty, and you're not very bright. Oh, I'm so glad we had that talk.",
+      "speaker": "F",
+      "character": "iona",
+      "source": "A Cinderella Story",
+      "year": 2004,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1099,
+      "quote": "I like to picture Jesus in a tuxedo t-shirt because it says, like, 'I wanna be formal, but I'm here to party, too.'",
+      "speaker": "C",
+      "character": "al Naughton Jr.",
+      "source": "Talladega Nights: The Ballad of Ricky Bobby",
+      "year": 2006,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1100,
+      "quote": "Here's the deal. I'm the best there is. Plain and simple. I wake up in the morning, and I p*ss excellence.",
+      "speaker": "R",
+      "character": "icky Bobby",
+      "source": "Talladega Nights: The Ballad of Ricky Bobby",
+      "year": 2006,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1101,
+      "quote": "Florals? For spring? Groundbreaking.",
+      "speaker": "M",
+      "character": "iranda Priestly",
+      "source": "The Devil Wears Prada",
+      "year": 2006,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1102,
+      "quote": "If you ain't first, you're last.",
+      "speaker": "R",
+      "character": "icky Bobby",
+      "source": "Talladega Nights: The Ballad of Ricky Bobby",
+      "year": 2006,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1103,
+      "quote": "If we went to a Halloween party dressed as Batman and Robin, I'd go as Robin. That's how much you mean to me.",
+      "speaker": "C",
+      "character": "hazz Michael Michaels",
+      "source": "Blades of Glory",
+      "year": 2007,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
     }
   ]
 }
