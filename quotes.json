@@ -6336,6 +6336,141 @@
         "Prime Video"
       ],
       "streaming_checked": true
+    },
+    {
+      "quote": "Nobody is gonna hit as hard as life, but it ain't how hard you can hit. It's how hard you can get hit and keep moving forward. It's how much you can take, and keep moving forward. That's how winning is done.",
+      "speaker": "Sylvester Stallone",
+      "character": "Rocky Balboa",
+      "source": "Rocky",
+      "year": 1976,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 425,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Life is like a box of chocolates. You never know what you're gonna get.",
+      "speaker": "Tom Hanks",
+      "character": "Forrest Gump",
+      "source": "Forrest Gump",
+      "year": 1994,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 426,
+      "streaming_checked": true
+    },
+    {
+      "quote": "If you focus on what you left behind, you will never be able to see what lies ahead.",
+      "speaker": "Brad Bird",
+      "character": "Remy",
+      "source": "Ratatouille",
+      "year": 2007,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 427,
+      "streaming_checked": true
+    },
+    {
+      "quote": "To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.",
+      "speaker": "Ben Stiller",
+      "character": "Walter Mitty",
+      "source": "The Secret Life of Walter Mitty",
+      "year": 2013,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 428,
+      "streaming_checked": true
+    },
+    {
+      "quote": "The very things that hold you down are going to lift you up.",
+      "speaker": "E.B. Strouse Jr.",
+      "character": "Dumbo's Mother",
+      "source": "Dumbo",
+      "year": 1941,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 429,
+      "streaming_checked": true
+    },
+    {
+      "quote": "My life has no big meaning or direction or purpose, and I'm happy.",
+      "speaker": "Sandra Bullock",
+      "character": "Glory",
+      "source": "Hope Floats",
+      "year": 1998,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 430,
+      "streaming_checked": true
+    },
+    {
+      "quote": "How many times do I have to teach you: just because something works doesn't mean it can't be improved.",
+      "speaker": "Chadwick Boseman",
+      "character": "T'Challa",
+      "source": "Black Panther",
+      "year": 2018,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 431,
+      "streaming_checked": true
+    },
+    {
+      "quote": "It's what you do right now that makes a difference.",
+      "speaker": "Ed Harris",
+      "character": "Captain Richard Super",
+      "source": "Black Hawk Down",
+      "year": 2001,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 432,
+      "streaming_checked": true
+    },
+    {
+      "quote": "A laugh can be a very powerful thing. Why, sometimes in life, it's the only weapon we have.",
+      "speaker": "Charles Laughton",
+      "character": "Judge Claude Frollo",
+      "source": "Who Framed Roger Rabbit",
+      "year": 1988,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 433,
+      "streaming_checked": true
     }
   ]
 }
