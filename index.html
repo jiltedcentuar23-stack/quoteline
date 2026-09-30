@@ -287,10 +287,10 @@ const EMBEDDED_QUOTES = {"meta": {"name": "Quoteline", "tagline": "Fresh lines, 
   });
 
   function boot(data){
-    quotes = (data.quotes || data).filter(q => q.verified);
+    quotes = (data.quotes || data).filter(q => q.quote);
     updateCatCounts(); stats(); render();
   }
-  if (typeof EMBEDDED_QUOTES !== 'undefined' && EMBEDDED_QUOTES.length) boot({quotes:EMBEDDED_QUOTES});
+  if (typeof EMBEDDED_QUOTES !== 'undefined' && EMBEDDED_QUOTES.quotes && EMBEDDED_QUOTES.quotes.length) boot(EMBEDDED_QUOTES);
   else fetch('quotes.json').then(r=>r.json()).then(boot).catch(e=>{
     el('quoteText').innerHTML = 'Could not load data: '+esc(String(e))+' <span class="close">\u201D</span>';
   });
