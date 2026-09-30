@@ -851,7 +851,7 @@
     {
       "id": 58,
       "quote": "You had me at 'hello.'",
-      "speaker": "Renée Zellweger",
+      "speaker": "Ren\u00e9e Zellweger",
       "character": "Dorothy Boyd",
       "source": "Jerry Maguire",
       "year": 1996,
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 96,
-      "quote": "I feel the need—the need for speed!",
+      "quote": "I feel the need\u2014the need for speed!",
       "speaker": "Tom Cruise",
       "character": "Lt. Pete 'Maverick' Mitchell",
       "source": "Top Gun",
@@ -2353,7 +2353,7 @@
       "quote": "Do, or do not. There is no try.",
       "speaker": "Alec Guinness",
       "character": "Obi-Wan Kenobi",
-      "source": "Star Wars: Episode V – The Empire Strikes Back",
+      "source": "Star Wars: Episode V \u2013 The Empire Strikes Back",
       "year": 1980,
       "categories": [
         "serious"
@@ -2530,7 +2530,7 @@
     },
     {
       "id": 171,
-      "quote": "To die—to be really dead—that must be glorious.",
+      "quote": "To die\u2014to be really dead\u2014that must be glorious.",
       "speaker": "Bela Lugosi",
       "character": "Count Dracula",
       "source": "Dracula",
@@ -3400,7 +3400,7 @@
     },
     {
       "id": 229,
-      "quote": "I met this six-year-old child with this blank, pale, emotionless face and the blackest eyes—the Devil's eyes.",
+      "quote": "I met this six-year-old child with this blank, pale, emotionless face and the blackest eyes\u2014the Devil's eyes.",
       "speaker": "Donald Pleasence",
       "character": "Dr. Loomis",
       "source": "Halloween",
@@ -4466,7 +4466,7 @@
     {
       "id": 300,
       "quote": "Boy, the next word that comes out of your mouth better be some brilliant fuckin' Mark Twain shit. 'Cause it's definitely getting chiseled on your tombstone.",
-      "speaker": "Bill Skarsgård",
+      "speaker": "Bill Skarsg\u00e5rd",
       "character": "Otis",
       "source": "The Devil's Rejects",
       "year": 2005,
@@ -4556,7 +4556,7 @@
     {
       "id": 306,
       "quote": "Oh, white girls. They get you every time.",
-      "speaker": "Léa Roy",
+      "speaker": "L\u00e9a Roy",
       "character": "Detective Latoya",
       "source": "Get Out",
       "year": 2017,
@@ -4571,7 +4571,7 @@
     {
       "id": 307,
       "quote": "I'm TS-motherfuckin'-A. We handle shit. That's what we do. Consider this situation fuckin' handled.",
-      "speaker": "Léa Roy",
+      "speaker": "L\u00e9a Roy",
       "character": "Detective Latoya",
       "source": "Get Out",
       "year": 2017,
@@ -4840,7 +4840,7 @@
     },
     {
       "id": 325,
-      "quote": "Even Hell has its heroes, señor.",
+      "quote": "Even Hell has its heroes, se\u00f1or.",
       "speaker": "Jonathan Pryce",
       "character": "Deauville",
       "source": "The Ninth Gate",
@@ -5096,7 +5096,7 @@
     {
       "id": 342,
       "quote": "You'll float down here. We all float down here.",
-      "speaker": "Bill Skarsgård",
+      "speaker": "Bill Skarsg\u00e5rd",
       "character": "Pennywise",
       "source": "It",
       "year": 2017,
@@ -5111,7 +5111,7 @@
     {
       "id": 343,
       "quote": "When you're a kid, you think that you'll always be ... protected and cared for. Then, one day, you realize that's not true. If you open your eyes, you will see what we're going through. 'Cause when you're alone as a kid, the monsters see you as weaker. You don't even know they're getting closer. Until it's too late.",
-      "speaker": "Bill Skarsgård",
+      "speaker": "Bill Skarsg\u00e5rd",
       "character": "Pennywise",
       "source": "It",
       "year": 2017,
@@ -5305,7 +5305,7 @@
     },
     {
       "id": 356,
-      "quote": "It wasn't so much the blood, it was her face—the way she looked.",
+      "quote": "It wasn't so much the blood, it was her face\u2014the way she looked.",
       "speaker": "Sosie Bacon",
       "character": "Rose Cotter",
       "source": "Smile",
@@ -5350,7 +5350,7 @@
     },
     {
       "id": 359,
-      "quote": "I can't anymore—everything's black—mom and dad are coming too. goodbye",
+      "quote": "I can't anymore\u2014everything's black\u2014mom and dad are coming too. goodbye",
       "speaker": "Florence Pugh",
       "character": "Dani",
       "source": "Midsommar",
@@ -7090,7 +7090,7 @@
     },
     {
       "quote": "And sometimes you love a person just because they feel like home.",
-      "speaker": "Renée Zellweger",
+      "speaker": "Ren\u00e9e Zellweger",
       "character": "Bridget Jones",
       "source": "Bridget Jones's Diary",
       "year": 2001,
@@ -8590,7 +8590,7 @@
     },
     {
       "quote": "Any world that can produce the Taj Mahal, William Shakespeare, and Stripe toothpaste can't be all bad.",
-      "speaker": "Curd Jürgens",
+      "speaker": "Curd J\u00fcrgens",
       "character": "C.R. MacNamara",
       "source": "One, Two, Three",
       "year": 1961,
@@ -8964,7 +8964,7 @@
       "streaming_checked": true
     },
     {
-      "quote": "Donde está la biblioteca.",
+      "quote": "Donde est\u00e1 la biblioteca.",
       "speaker": "White Goodman",
       "character": "White Goodman",
       "source": "Dodgeball",
@@ -9640,7 +9640,7 @@
       "id": 647,
       "quote": "I know. It's almost impossible to succeed. But... who cares, really? The answer must be in the attempt.",
       "speaker": "Julie Delpy",
-      "character": "Céline",
+      "character": "C\u00e9line",
       "source": "Before Sunrise",
       "year": null,
       "categories": [
@@ -9940,7 +9940,7 @@
     {
       "id": 668,
       "quote": "Dreams can begin small too.",
-      "speaker": "Renée Zellweger",
+      "speaker": "Ren\u00e9e Zellweger",
       "character": "Angie",
       "source": "Shark Tale",
       "year": null,
@@ -10837,7 +10837,7 @@
     {
       "id": 733,
       "quote": "If you go through with this, you've got to win. If you muck it up, don't ever think of coming back here, except in your coffin.",
-      "speaker": "Noël Coward",
+      "speaker": "No\u00ebl Coward",
       "character": "Mr. Bridger",
       "source": "The Italian Job (1969)",
       "year": 1969,
@@ -13782,7 +13782,7 @@
       "id": 943,
       "quote": "Vote for me, and all your wildest dreams will come true.",
       "speaker": "Efren Ramirez",
-      "character": "Pedro Sánchez",
+      "character": "Pedro S\u00e1nchez",
       "source": "Napoleon Dynamite",
       "year": 2004,
       "categories": [
@@ -13977,7 +13977,7 @@
       "id": 956,
       "quote": "They're pretty good, except for one little problem. That little guy right there. He is nipple number five. A good dairy cow should have, like, four.",
       "speaker": "Efren Ramirez",
-      "character": "Pedro Sánchez",
+      "character": "Pedro S\u00e1nchez",
       "source": "Napoleon Dynamite",
       "year": 2004,
       "categories": [
@@ -14035,7 +14035,7 @@
     },
     {
       "id": 960,
-      "quote": "It’s pronounced 'Fronkensteen.'",
+      "quote": "It\u2019s pronounced 'Fronkensteen.'",
       "speaker": "Gene Wilder",
       "character": "Dr. Frederick Frankenstein",
       "source": "Young Frankenstein",
@@ -14095,7 +14095,7 @@
     },
     {
       "id": 964,
-      "quote": "When life gives you lemons, just say ‘fuck the lemons’, and bail.",
+      "quote": "When life gives you lemons, just say \u2018fuck the lemons\u2019, and bail.",
       "speaker": "Paul Rudd",
       "character": "Chuch",
       "source": "Forgetting Sarah Marshall",
@@ -14110,7 +14110,7 @@
     },
     {
       "id": 965,
-      "quote": "I don’t want to be rude, but may I have a drink? I had three or four before I got here, but they’re beginning to wear off. And you know how that is.",
+      "quote": "I don\u2019t want to be rude, but may I have a drink? I had three or four before I got here, but they\u2019re beginning to wear off. And you know how that is.",
       "speaker": "Irene Dunne",
       "character": "Lucy Warriner",
       "source": "The Awful Truth",
@@ -14256,7 +14256,7 @@
     },
     {
       "id": 975,
-      "quote": "Instead of the mahi mahi, may I just get the one mahi because I’m not that hungry?",
+      "quote": "Instead of the mahi mahi, may I just get the one mahi because I\u2019m not that hungry?",
       "speaker": "Anna Faris",
       "character": "Shelley Darlingson",
       "source": "The House Bunny",
@@ -14286,7 +14286,7 @@
     },
     {
       "id": 977,
-      "quote": "I am serious…and don't call me Shirley.",
+      "quote": "I am serious\u2026and don't call me Shirley.",
       "speaker": "Leslie Nielsen",
       "character": "Dr. Rumack",
       "source": "Airplane!",
@@ -14629,7 +14629,7 @@
     },
     {
       "id": 1000,
-      "quote": "Even if I wanted to go, my schedule wouldn't allow it. 4:00, wallow in self pity; 4:30, stare into the abyss; 5:00, solve world hunger, tell no one; 5:30, Jazzercise; 6:30, dinner with me — I can't cancel that again; 7:00, wrestle with my self-loathing. ... I'm booked. Of course, if I bump the loathing to 9, I could still be done in time to lay in bed, stare at the ceiling, and slip slowly into madness.",
+      "quote": "Even if I wanted to go, my schedule wouldn't allow it. 4:00, wallow in self pity; 4:30, stare into the abyss; 5:00, solve world hunger, tell no one; 5:30, Jazzercise; 6:30, dinner with me \u2014 I can't cancel that again; 7:00, wrestle with my self-loathing. ... I'm booked. Of course, if I bump the loathing to 9, I could still be done in time to lay in bed, stare at the ceiling, and slip slowly into madness.",
       "speaker": "Jim Carrey",
       "character": "the Grinch",
       "source": "How the Grinch Stole Christmas",
@@ -14839,7 +14839,7 @@
     },
     {
       "id": 1014,
-      "quote": "Please. Have mercy. I’ve been wearing the same underwear since Tuesday.",
+      "quote": "Please. Have mercy. I\u2019ve been wearing the same underwear since Tuesday.",
       "speaker": "Steve Martin",
       "character": "Neal Page",
       "source": "Planes, Trains & Automobiles",
@@ -15064,7 +15064,7 @@
     },
     {
       "id": 1029,
-      "quote": "This one time, at band camp …",
+      "quote": "This one time, at band camp \u2026",
       "speaker": "M",
       "character": "ichelle",
       "source": "American Pie",
@@ -15214,7 +15214,7 @@
     },
     {
       "id": 1039,
-      "quote": "Bend … and snap!",
+      "quote": "Bend \u2026 and snap!",
       "speaker": "E",
       "character": "lle Woods",
       "source": "Legally Blonde",
@@ -15334,7 +15334,7 @@
     },
     {
       "id": 1047,
-      "quote": "Do you have any dreams?\" Pee-wee Herman: \"Yeah. I'm all alone. I'm rolling a big doughnut, and there's a snake wearing a vest…",
+      "quote": "Do you have any dreams?\" Pee-wee Herman: \"Yeah. I'm all alone. I'm rolling a big doughnut, and there's a snake wearing a vest\u2026",
       "speaker": "Simone",
       "character": "",
       "source": "Pee-wee's Big Adventure",
@@ -15394,7 +15394,7 @@
     },
     {
       "id": 1051,
-      "quote": "Oh, right, to call you stupid would be an insult to stupid people. … I've worn dresses with higher IQs.",
+      "quote": "Oh, right, to call you stupid would be an insult to stupid people. \u2026 I've worn dresses with higher IQs.",
       "speaker": "W",
       "character": "anda",
       "source": "A Fish Called Wanda",
@@ -16020,7 +16020,7 @@
     },
     {
       "id": 1093,
-      "quote": "This morning was good…. Then I got up.",
+      "quote": "This morning was good\u2026. Then I got up.",
       "speaker": "E",
       "character": "van",
       "source": "Freaky Friday",
@@ -18285,7 +18285,7 @@
     },
     {
       "id": 1244,
-      "quote": "You see, in this world there’s two kinds of people, my friend; those with loaded guns and those who dig. You dig\"",
+      "quote": "You see, in this world there\u2019s two kinds of people, my friend; those with loaded guns and those who dig. You dig\"",
       "speaker": "Blondie, The Good, The Bad",
       "character": "",
       "source": "and The Ugly",
@@ -18964,6 +18964,4138 @@
       "speaker": "Dark Helmet",
       "character": "",
       "source": "Spaceballs",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1290,
+      "quote": "You don\u2019t understand! I coulda had class. I coulda been a contender. I could\u2019ve been somebody, instead of a bum, which is what I am; let\u2019s face it.",
+      "speaker": "Marlon Brando",
+      "character": null,
+      "source": "On the Waterfront",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1291,
+      "quote": "Here\u2019s lookin\u2019 at you, kid.",
+      "speaker": "Humphrey Bogart",
+      "character": null,
+      "source": "Casablanca",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1292,
+      "quote": "Alright, Mr. DeMille, I\u2019m ready for my close-up.",
+      "speaker": "Gloria Swanson",
+      "character": null,
+      "source": "Sunset Boulevard",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1293,
+      "quote": "You\u2019ve gotta ask yourself one question: \u2018Do I feel lucky?\u2019 Well, do ya\u2019 punk?",
+      "speaker": "Clint Eastwood",
+      "character": null,
+      "source": "Dirty Harry",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1294,
+      "quote": "Bond.  James Bond.",
+      "speaker": "Sean Connery",
+      "character": null,
+      "source": "Dr. No",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1295,
+      "quote": "I am serious.  And don\u2019t call me Shirley.",
+      "speaker": "Leslie Nielson",
+      "character": null,
+      "source": "Airplane!",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1296,
+      "quote": "E.T. phone home.",
+      "speaker": "Joe Welsh",
+      "character": null,
+      "source": "E.T.: the Extra-Terrestrial",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1297,
+      "quote": "I\u2019m mad as hell, and I\u2019m not going to take this anymore!",
+      "speaker": "Peter Finch",
+      "character": null,
+      "source": "Network",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1298,
+      "quote": "My father taught me many lessons from this chair.  He taught me, \u2018Keep your friends close, but your enemies closer.\u2019",
+      "speaker": "Al Pacino",
+      "character": null,
+      "source": "The Godfather Part II",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1299,
+      "quote": "Mama always said \u2018life is like a bunch of chocolates, you never know what you\u2019re gonna get.\u2019",
+      "speaker": "Tom Hanks",
+      "character": null,
+      "source": "Forrest Gump",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1300,
+      "quote": "Martini.  Shaken, not stirred.",
+      "speaker": "Sean Connery",
+      "character": null,
+      "source": "Goldfinger",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1301,
+      "quote": "What is it you want, Mary? What do you want? You want the moon? Just say the word, and I\u2019ll throw a lasso around it and pull it down.",
+      "speaker": "James Stewart",
+      "character": null,
+      "source": "It\u2019s a Wonderful Life",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1302,
+      "quote": "Mirror, mirror on the wall, who\u2019s the fairest of them all?",
+      "speaker": "Lucille la Verne",
+      "character": null,
+      "source": "Snow White and the Seven Dwarves",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1303,
+      "quote": "Run, Forrest!  Run!",
+      "speaker": "Hanna Hall",
+      "character": null,
+      "source": "Forrest Gump",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1304,
+      "quote": "Rosebud.",
+      "speaker": "Orson Welles",
+      "character": null,
+      "source": "Citizen Kane",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1305,
+      "quote": "I\u2019m walkin\u2019 here!  I\u2019m walkin\u2019 here!",
+      "speaker": "Dustin Hoffman",
+      "character": null,
+      "source": "Midnight Cowboy",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1306,
+      "quote": "Hello.  My name is Inigo Montoya.  You killed my father.  Prepare to die.",
+      "speaker": "Mandy Patinkin",
+      "character": null,
+      "source": "The Princess Bride",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Hulu"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1307,
+      "quote": "I\u2019ll get you my pretty, and your little dog, too!",
+      "speaker": "Margaret Hamilton",
+      "character": null,
+      "source": "The Wizard of Oz",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1308,
+      "quote": "What we\u2019ve got here is\u2026failure to communicate.",
+      "speaker": "Strother Martin",
+      "character": null,
+      "source": "Cool Hand Luke",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1309,
+      "quote": "You wanna play games, let\u2019s play games\u2026Say \u2018hello\u2019 to my little friend!",
+      "speaker": "Al Pacino",
+      "character": null,
+      "source": "Scarface",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1310,
+      "quote": "Made it, Ma!  Top of the world!",
+      "speaker": "James Cagney",
+      "character": null,
+      "source": "White Heat",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1311,
+      "quote": "Play it Sam, play \u2018As Time Goes By.\u2019",
+      "speaker": "Ingrid Bergman",
+      "character": null,
+      "source": "Casablanca",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1312,
+      "quote": "Space\u2026 the Final Frontier. These are the continuing voyages of the starship Enterprise. Her ongoing mission: to explore strange new worlds, to seek out new life forms and new civilizations, to boldly go where no man has gone before.",
+      "speaker": "Leonard Nimoy",
+      "character": null,
+      "source": "Star Trek: the Wrath of Khan",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video",
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1313,
+      "quote": "Gentlemen, there\u2019s no fighting in here!  This is the war room!",
+      "speaker": "Peter Sellers",
+      "character": null,
+      "source": "Dr. Strangelove: or How I Learned to Stop Worrying and Love the Bomb",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1314,
+      "quote": "Now, I want you to remember that no bastard ever won a war by dying for his country. He won it by making the other poor dumb bastard die for his country.",
+      "speaker": "George C. Scott",
+      "character": null,
+      "source": "Patton",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1315,
+      "quote": "Father to a murdered son. Husband to a murdered wife. And I will have my vengeance, in this life or the next.",
+      "speaker": "Russell Crowe",
+      "character": null,
+      "source": "Gladiator",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1316,
+      "quote": "Help me, Obi-Wan Kenobi, you\u2019re my only hope.",
+      "speaker": "Carrie Fisher",
+      "character": null,
+      "source": "Star Wars",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1317,
+      "quote": "The point is, ladies and gentleman, is that greed \u2013 for lack of a better word \u2013 is good. Greed is right. Greed works. Greed clarifies, cuts through and captures the essence of the evolutionary spirit. Greed, in all of its forms \u2013 greed for life, for money, for love, knowledge \u2013 has marked the upward surge of mankind.",
+      "speaker": "Michael Douglas",
+      "character": null,
+      "source": "Wall Street",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1318,
+      "quote": "It\u2019s alive.  It\u2019s alive!",
+      "speaker": "Colin Clive",
+      "character": null,
+      "source": "Franksenstein",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1319,
+      "quote": "You\u2019ll shoot your eye out!",
+      "speaker": "Melinda Dillon",
+      "character": null,
+      "source": "A Christmas Story",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max",
+        "Tubi",
+        "Pluto TV",
+        "Plex"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1320,
+      "quote": "One morning I shot an elephant in my pajamas.  How he got in my pajamas, I don\u2019t know.",
+      "speaker": "Groucho Marx",
+      "character": null,
+      "source": "Animal Crackers",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1321,
+      "quote": "Aye, fight and you may die, run and you\u2019ll live. At least a while. And dying in your beds many years from now, would you be willing to trade all the days from this day to that for one chance, just one chance to come back here and tell our enemies that they may take our lives, but they\u2019ll never take our freedom!",
+      "speaker": "Mel Gibson",
+      "character": null,
+      "source": "Braveheart",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1322,
+      "quote": "They call me Mr. Tibbs!",
+      "speaker": "Sidney Poitier",
+      "character": null,
+      "source": "In the Heat of the Night",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1323,
+      "quote": "Be afraid.  Be very afraid.",
+      "speaker": "Geena Davis",
+      "character": null,
+      "source": "The Fly",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1324,
+      "quote": "Every time a bell rings, an angel gets his wings.",
+      "speaker": "Henry Travers",
+      "character": null,
+      "source": "It\u2019s a Wonderful Life",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1325,
+      "quote": "Life moves pretty fast.  If you don\u2019t stop and look around once in a while, you could miss it.",
+      "speaker": "Matthew Broderick",
+      "character": null,
+      "source": "Ferris Bueller\u2019s Day Off",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Netflix"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1326,
+      "quote": "Life is a banquet, and most poor suckers and starving to death!",
+      "speaker": "Rosalind Russell",
+      "character": null,
+      "source": "Auntie Mame",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1327,
+      "quote": "A census taker once tried to test me.  I ate his liver with some fava beans and a nice chianti.",
+      "speaker": "Anthony Hopkins",
+      "character": null,
+      "source": "The Silence of the Lambs",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1328,
+      "quote": "Who\u2019s on first?",
+      "speaker": "Bud Abbott",
+      "character": null,
+      "source": "The Naughty Nineties",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1329,
+      "quote": "Follow the money.",
+      "speaker": "Hal Holbrook",
+      "character": null,
+      "source": "All the President\u2019s Men",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1330,
+      "quote": "Be the ball.",
+      "speaker": "Chevy Chase",
+      "character": null,
+      "source": "Caddyshack",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1331,
+      "quote": "You never really understand a person until you consider things from his point of view, until you climb inside of his skin and walk around in it.",
+      "speaker": "Gregory Peck",
+      "character": null,
+      "source": "To Kill a Mockingbird",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1332,
+      "quote": "Why so serious?  Let\u2019s put a smile on that face.",
+      "speaker": "Heath Ledger",
+      "character": null,
+      "source": "The Dark Knight",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1333,
+      "quote": "Roads?  Where we going, we don\u2019t need roads.",
+      "speaker": "Christopher Lloyd",
+      "character": null,
+      "source": "Back to the Future",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Netflix"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1334,
+      "quote": "Pay no attention to the man behind the curtain!",
+      "speaker": "Frank Morgan",
+      "character": null,
+      "source": "The Wizard of Oz",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1335,
+      "quote": "Forget it, Jake.  It\u2019s Chinatown.",
+      "speaker": "Bruce Glover",
+      "character": null,
+      "source": "Chinatown",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1336,
+      "quote": "Somebody stop me!",
+      "speaker": "Jim Carrey",
+      "character": null,
+      "source": "The Mask",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1337,
+      "quote": "Good morning, Vietnam!",
+      "speaker": "Robin Williams",
+      "character": null,
+      "source": "Good Morning, Vietnam!",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1338,
+      "quote": "I\u2019m melting!  Melting!",
+      "speaker": "Margaret Hamilton",
+      "character": null,
+      "source": "The Wizard of Oz",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1339,
+      "quote": "There are simply too many notes.",
+      "speaker": "Jeffrey Jones",
+      "character": null,
+      "source": "Amadeus",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1340,
+      "quote": "Excuse me while I whip this out.",
+      "speaker": "Cleavon Little",
+      "character": null,
+      "source": "Blazing Saddles",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1341,
+      "quote": "That\u2019s my secret, Captain.  I\u2019m always angry.",
+      "speaker": "Mark Ruffalo",
+      "character": null,
+      "source": "The Avengers",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1342,
+      "quote": "Shut up and deal.",
+      "speaker": "Shirley MacLaine",
+      "character": null,
+      "source": "The Apartment",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1343,
+      "quote": "What a dump!",
+      "speaker": "Bette Davis",
+      "character": null,
+      "source": "Beyond the Forest",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1344,
+      "quote": "It\u2019s showtime!",
+      "speaker": "Roy Schneider",
+      "character": null,
+      "source": "All That Jazz",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1345,
+      "quote": "Yeah, baby!",
+      "speaker": "Mike Myers",
+      "character": null,
+      "source": "Austin Powers: International Man of Mystery",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1346,
+      "quote": "Carpe diem.  Seize the day, boys.  Make your lives extraordinary.",
+      "speaker": "Robin Williams",
+      "character": null,
+      "source": "Dead Poets\u2019 Society",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1347,
+      "quote": "That\u2019ll do, pig.  That\u2019ll do.",
+      "speaker": "James Cromwell",
+      "character": null,
+      "source": "Babe",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1348,
+      "quote": "Yo, Adrian.",
+      "speaker": "Sylvester Stallone",
+      "character": null,
+      "source": "Rocky",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1349,
+      "quote": "Get busy livin\u2019 or get busy dyin\u2019.",
+      "speaker": "Tim Robbins",
+      "character": null,
+      "source": "The Shawshank Redemption",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1350,
+      "quote": "I\u2019ll meet you at the place near the thing where we met that time.",
+      "speaker": "Albert Brooks",
+      "character": null,
+      "source": "Broadcast News",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1351,
+      "quote": "I am not an animal!",
+      "speaker": "John Hurt",
+      "character": null,
+      "source": "The Elephant Man",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1352,
+      "quote": "Listen to them, children of the night\u2026what music they make.",
+      "speaker": "Bela Lugosi",
+      "character": null,
+      "source": "Dracula",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1353,
+      "quote": "Oh, Jerry, don\u2019t let\u2019s ask for the moon.  We have the stars.",
+      "speaker": "Bette Davis",
+      "character": null,
+      "source": "Now, Voyager",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1354,
+      "quote": "Stella!  Hey, Stella!",
+      "speaker": "Marlon Brando",
+      "character": null,
+      "source": "A Streetcar Named Desire",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1355,
+      "quote": "As you wish.",
+      "speaker": "Cary Elwes",
+      "character": null,
+      "source": "The Princess Bride",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Hulu"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1356,
+      "quote": "You ever seen a grown man naked?",
+      "speaker": "Peter Graves",
+      "character": null,
+      "source": "Airplane!",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1357,
+      "quote": "I\u2019ve abandoned my child!  I\u2019ve abandoned my boy!",
+      "speaker": "Daniel Day Lewis",
+      "character": null,
+      "source": "There Will Be Blood",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1358,
+      "quote": "Georgia, love is for the very young.",
+      "speaker": "Kirk Douglas",
+      "character": null,
+      "source": "The Bold and the Beautiful",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1359,
+      "quote": "That was the most fun I\u2019ve ever had without laughing.",
+      "speaker": "Woody Allen",
+      "character": null,
+      "source": "Annie Hall",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1360,
+      "quote": "May you all remember this as the day you almost caught Captain Jack Sparrow!",
+      "speaker": "Johnny Depp",
+      "character": null,
+      "source": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1361,
+      "quote": "Hulk\u2026Smash!",
+      "speaker": "Edward Norton",
+      "character": null,
+      "source": "The Incredible Hulk",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1362,
+      "quote": "Goodnight, you princes of Maine, you kings of New England.",
+      "speaker": "Michael Caine",
+      "character": null,
+      "source": "The Cider House Rules",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1363,
+      "quote": "I think it pisses God off when you walk by the color purple in a field and don\u2019t notice it.",
+      "speaker": "Margaret Avery",
+      "character": null,
+      "source": "The Color Purple",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1364,
+      "quote": "I\u2019m no good at being noble, but it doesn\u2019t take much to see that the problems of three little people don\u2019t amount to a hill of beans in this crazy world.",
+      "speaker": "Humphrey Bogart",
+      "character": null,
+      "source": "Casablanca",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1365,
+      "quote": "And our bodies are earth. And our thoughts are clay. And we sleep and eat with death.",
+      "speaker": "Lew Ayres",
+      "character": null,
+      "source": "All Quiet on the Western Front",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1366,
+      "quote": "The list is an absolute good.  The list is life.",
+      "speaker": "Ben Kingsley",
+      "character": null,
+      "source": "Schindler\u2019s List",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1367,
+      "quote": "Wouldja do me a favor, Harry?  Drop dead.",
+      "speaker": "Judy Holliday",
+      "character": null,
+      "source": "Born Yesterday",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1368,
+      "quote": "Yippie-kay-yay, motherfucker!",
+      "speaker": "Bruce Willis",
+      "character": null,
+      "source": "Die Hard",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1369,
+      "quote": "Mama, face it, I was the slut of all time.",
+      "speaker": "Elizabeth Taylor",
+      "character": null,
+      "source": "Butterfield 8",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1370,
+      "quote": "A lie keeps growing and growing until it\u2019s as clear as the nose on your face.",
+      "speaker": "Evelyn Venable",
+      "character": null,
+      "source": "Pinocchio",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1371,
+      "quote": "I am big!  It\u2019s the pictures that got small.",
+      "speaker": "Gloria Swanson",
+      "character": null,
+      "source": "Sunset Boulevard",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1372,
+      "quote": "Mein F\u00fchrer!  I can walk!",
+      "speaker": "Peter Sellers",
+      "character": null,
+      "source": "Dr. Strangelove: or How I Learned to Stop Worrying and Love the Bomb",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1373,
+      "quote": "As God as my witness, I\u2019ll never go hungry again!",
+      "speaker": "Vivien Leigh",
+      "character": null,
+      "source": "Gone with the Wind",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1374,
+      "quote": "I believe in long, slow, deep, soft, wet kisses that last three days.",
+      "speaker": "Kevin Costner",
+      "character": null,
+      "source": "Bull Durham",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1375,
+      "quote": "In spite of everything, I still believe that people are really good at heart.",
+      "speaker": "Millie Perkins",
+      "character": null,
+      "source": "The Diary of Anne Frank",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1376,
+      "quote": "I\u2019m here to fight for truth, justice and the American way.",
+      "speaker": "Christopher Reeve",
+      "character": null,
+      "source": "Superman: the Movie",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1377,
+      "quote": "I don\u2019t know nothing about birthin\u2019 babies!",
+      "speaker": "Butterfly McQueen",
+      "character": null,
+      "source": "Gone with the Wind",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1378,
+      "quote": "I feel the need\u2026The need for speed!",
+      "speaker": "Tom Cruise and Anthony Edwards",
+      "character": null,
+      "source": "Top Gun",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1379,
+      "quote": "I\u2019m the ghost with the most, babe.",
+      "speaker": "Michael Keaton",
+      "character": null,
+      "source": "Beetlejuice",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1380,
+      "quote": "It was beauty killed the beast.",
+      "speaker": "Robert Armstrong",
+      "character": null,
+      "source": "King Kong",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1381,
+      "quote": "Have you ever danced with the devil in the pale moonlight?",
+      "speaker": "Jack Nicholson",
+      "character": null,
+      "source": "Batman",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1382,
+      "quote": "I\u2019m Spartacus!",
+      "speaker": "Tony Curtis",
+      "character": null,
+      "source": "Spartacus",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1383,
+      "quote": "Alright, alright, alright!",
+      "speaker": "Matthew McConaughey",
+      "character": null,
+      "source": "Dazed and Confused",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1384,
+      "quote": "Give me a whiskey, ginger ale on the side.  And don\u2019t be stingy, baby.",
+      "speaker": "Greta Garbo",
+      "character": null,
+      "source": "Anna Christie",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1385,
+      "quote": "Get off of my plane.",
+      "speaker": "Harrison Ford",
+      "character": null,
+      "source": "Air Force One",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1386,
+      "quote": "Sometimes there\u2019s so much beauty in the world I feel like I can\u2019t take it, like my heart\u2019s going to cave in.",
+      "speaker": "Wes Bentley",
+      "character": null,
+      "source": "American Beauty",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1387,
+      "quote": "Wait a minute, wait a minute.  You ain\u2019t heard nothin\u2019 yet!",
+      "speaker": "Al Jolson",
+      "character": null,
+      "source": "The Jazz Singer",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1388,
+      "quote": "Get your stinkin\u2019 paws off me, you damned dirty ape!",
+      "speaker": "Charlton Heston",
+      "character": null,
+      "source": "Planet of the Apes",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1389,
+      "quote": "I never wanted this for you.",
+      "speaker": "Marlon Brando",
+      "character": null,
+      "source": "The Godfather",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1390,
+      "quote": "You\u2019re a better man than I am, Gunga Din.",
+      "speaker": "Cary Grant",
+      "character": null,
+      "source": "Gunga Din",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1391,
+      "quote": "Don\u2019t mess with the bull, young man.  You\u2019ll get the horns!",
+      "speaker": "Paul Gleason",
+      "character": null,
+      "source": "The Breakfast Club",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1392,
+      "quote": "Shane!  Shane!  Come back, Shane!",
+      "speaker": "Brandon de Wilde",
+      "character": null,
+      "source": "Shane",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1393,
+      "quote": "I was looking up.  It was the nearest thing to heaven.  You were there.",
+      "speaker": "Deborah Kerr",
+      "character": null,
+      "source": "An Affair to Remember",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Netflix",
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1394,
+      "quote": "The dingo took my baby!",
+      "speaker": "Meryl Streep in A Cry",
+      "character": null,
+      "source": "the Dark",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1395,
+      "quote": "I love him because he\u2019s the kind of guy who gets drunk on a glass of buttermilk, and I love the way he blushes right up over his ears. I love him because he doesn\u2019t know how to kiss, the jerk!",
+      "speaker": "Barbara Stanwyck",
+      "character": null,
+      "source": "Ball of Fire",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1396,
+      "quote": "I know it was you, Fredo.  You broke my heart.",
+      "speaker": "Al Pacino",
+      "character": null,
+      "source": "The Godfather Part II",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1397,
+      "quote": "Mama says, \u2018stupid is and stupid does.\u2019",
+      "speaker": "Tom Hanks",
+      "character": null,
+      "source": "Forrest Gump",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1398,
+      "quote": "These aren\u2019t the droids you\u2019re looking for.",
+      "speaker": "Alec Guinness",
+      "character": null,
+      "source": "Star Wars",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1399,
+      "quote": "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother\u2019s keeper and the finder of lost children.  And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee!",
+      "speaker": "Samuel L. Jackson",
+      "character": null,
+      "source": "Pulp Fiction",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1400,
+      "quote": "The love inside\u2026you take it with you.",
+      "speaker": "Patrick Swayze",
+      "character": null,
+      "source": "Ghost",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1401,
+      "quote": "Nothing is over until we decide it is!  Was it over when the Germans bombed Pearl Harbor?  Hell no!",
+      "speaker": "John Belushi",
+      "character": null,
+      "source": "National Lampoon\u2019s Animal House",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1402,
+      "quote": "I always say a kiss on the hand might feel very good, but a diamond tiara lasts forever.",
+      "speaker": "Marilyn Monroe",
+      "character": null,
+      "source": "Gentlemen Prefer Blondes",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1403,
+      "quote": "We came.  We saw.  We kicked its ass.",
+      "speaker": "Bill Murray",
+      "character": null,
+      "source": "Ghostbusters",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1404,
+      "quote": "Wherever there\u2019s a fight so hungry people can eat, I\u2019ll be there.",
+      "speaker": "Henry Fonda",
+      "character": null,
+      "source": "The Grapes of Wrath",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1405,
+      "quote": "Hi-yo silver!",
+      "speaker": "Clayton Moore",
+      "character": null,
+      "source": "The Lone Ranger",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1406,
+      "quote": "My mother thanks you.  My father thanks you.  My sister thanks you.  And I thank you.",
+      "speaker": "James Cagney",
+      "character": null,
+      "source": "Yankee-Doodle Dandy",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1407,
+      "quote": "Have you ever seen an elephant fly?",
+      "speaker": "Cliff Edwards",
+      "character": null,
+      "source": "Dumbo",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1408,
+      "quote": "All-righty then!",
+      "speaker": "Jim Carrey",
+      "character": null,
+      "source": "Ace Ventura: Pet Detective",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1409,
+      "quote": "Well, I\u2019ve wrestled with reality for thirty-five years, Doctor, and I\u2019m happy to state that I finally won out over it.",
+      "speaker": "James Stewart",
+      "character": null,
+      "source": "Harvey",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1410,
+      "quote": "The greatest trick the devil ever pulled was convincing the world he didn\u2019t exist.",
+      "speaker": "Kevin Spacey",
+      "character": null,
+      "source": "The Usual Suspects",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1411,
+      "quote": "One million dollars.",
+      "speaker": "Mike Myers",
+      "character": null,
+      "source": "Austin Powers: International Man of Mystery",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1412,
+      "quote": "That dirty, double-crossing rat!",
+      "speaker": "James Cagney",
+      "character": null,
+      "source": "Blonde Crazy",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1413,
+      "quote": "There are only two things more beautiful than a good gun: a Swiss watch or a woman from anywhere.  Ever had a good Swiss watch?",
+      "speaker": "John Ireland",
+      "character": null,
+      "source": "Red River",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1414,
+      "quote": "I\u2019ve seen things you people wouldn\u2019t believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time, like tears in the rain. Time to die.",
+      "speaker": "Rutger Hauer",
+      "character": null,
+      "source": "Blade Runner",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1415,
+      "quote": "Cinderella story. Outta nowhere. A former greens-keeper, now, about to become the Masters champion. It looks like a mirac\u2026 It\u2019s in the hole! It\u2019s in the hole! It\u2019s in the hole!",
+      "speaker": "Bill Murray",
+      "character": null,
+      "source": "Caddyshack",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1416,
+      "quote": "First rule of fight club is: you do not talk about fight club.",
+      "speaker": "Brad Pitt",
+      "character": null,
+      "source": "Fight Club",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1417,
+      "quote": "I was born a poor black child.",
+      "speaker": "Steve Martin",
+      "character": null,
+      "source": "The Jerk",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1418,
+      "quote": "Et cetera, et cetera, et cetera!",
+      "speaker": "Yul Brynner",
+      "character": null,
+      "source": "The King and I",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1419,
+      "quote": "My brothers! I see in your eyes the same fear that would take the heart of me! A day may come when the courage of men fails, when we forsake our friends and break all bonds of fellowship. But it is not this day. An hour of wolves and shattered shields when the age of Men comes crashing down! But it is not this day! This day we fight!",
+      "speaker": "Viggo Mortenson",
+      "character": null,
+      "source": "The Lord of the Rings: The Return of the King",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1420,
+      "quote": "Sanctuary!",
+      "speaker": "Charles Laughton",
+      "character": null,
+      "source": "The Hunchback of Notre Dame",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1421,
+      "quote": "I don\u2019t mind if you don\u2019t like my manners.  I don\u2019t like them myself.  They\u2019re pretty bad.  I grieve over them long winter evenings.",
+      "speaker": "Humphrey Bogart",
+      "character": null,
+      "source": "The Big Sleep",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1422,
+      "quote": "You\u2019re my Lassie come home.",
+      "speaker": "Roddie McDowell",
+      "character": null,
+      "source": "Lassie, Come Home",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1423,
+      "quote": "Good evening, Clarice.",
+      "speaker": "Anthony Hopkins",
+      "character": null,
+      "source": "The Silence of the Lambs",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1424,
+      "quote": "You is kind.  You is smart.  You is important.",
+      "speaker": "Viola Davis",
+      "character": null,
+      "source": "The Help",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1425,
+      "quote": "Drainage! Drainage, Eli, you boy. Drained dry. I\u2019m so sorry. Here, if you have a milkshake, and I have a milkshake, and I have a straw. There it is, that\u2019s a straw, you see? You watching?. And my straw reaches across the room, and starts to drink your milkshake\u2026 I\u2026 drink\u2026 your\u2026 milkshake!",
+      "speaker": "Daniel Day-Lewis",
+      "character": null,
+      "source": "There Will Be Blood",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1426,
+      "quote": "Baby, I don\u2019t care.",
+      "speaker": "Robert Mitchum",
+      "character": null,
+      "source": "Out of the Past",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1427,
+      "quote": "\u2018Nature,\u2019 Mr. Allnut, is what we are put in this world to rise above.",
+      "speaker": "Katharine Hepburn",
+      "character": null,
+      "source": "The African Queen",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1428,
+      "quote": "I could dance with you \u2018til the cows come home.  On second thought, I\u2019d rather dance with the cows \u2018til you came home.",
+      "speaker": "Groucho Marx",
+      "character": null,
+      "source": "Duck Soup",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1429,
+      "quote": "You aren\u2019t too bright.  I like that in a man.",
+      "speaker": "Kathleen Turner",
+      "character": null,
+      "source": "Body Heat",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1430,
+      "quote": "You best start believin\u2019 in ghost stories, Miss Turner.  You\u2019re in one!",
+      "speaker": "Geoffrey Rush",
+      "character": null,
+      "source": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1431,
+      "quote": "I\u2019m getting too old for this shit.",
+      "speaker": "Danny Glover",
+      "character": null,
+      "source": "Lethal Weapon",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1432,
+      "quote": "I can do this all day.",
+      "speaker": "Chris Evans",
+      "character": null,
+      "source": "Captain America: The First Avenger",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1433,
+      "quote": "Get away from her, you bitch!",
+      "speaker": "Sigourney Weaver",
+      "character": null,
+      "source": "Aliens",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1434,
+      "quote": "I need him like the axe needs the turkey.",
+      "speaker": "Barbara Stanwyck",
+      "character": null,
+      "source": "The Lady Eve",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1435,
+      "quote": "Goodness had nothing to do with it, dearie.",
+      "speaker": "Mae West",
+      "character": null,
+      "source": "Night after Night",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1436,
+      "quote": "Out here, due process is a bullet.",
+      "speaker": "John Wayne",
+      "character": null,
+      "source": "The Green Berets",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1437,
+      "quote": "I was born when she kissed me. I died when she left me. I lived a few weeks while she loved me.",
+      "speaker": "Humphrey Bogart",
+      "character": null,
+      "source": "In a Lonely Place",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1438,
+      "quote": "I wouldn\u2019t give you two cents for all your fancy rules if, behind them, they didn\u2019t have a little bit of plain, ordinary, everyday kindness and a little looking out for the other fella, too.",
+      "speaker": "James Stewart",
+      "character": null,
+      "source": "Mr. Smith Goes to Washington",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1439,
+      "quote": "Oh, you should never, never doubt what nobody is sure about.",
+      "speaker": "Gene Wilder",
+      "character": null,
+      "source": "Willy Wonka and the Chocolate Factory",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max",
+        "Tubi",
+        "Pluto TV"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1440,
+      "quote": "I picked the wrong week to stop sniffing glue.",
+      "speaker": "Lloyd Bridges",
+      "character": null,
+      "source": "Airplane!",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1441,
+      "quote": "Does your dog bite?",
+      "speaker": "Peter Sellers",
+      "character": null,
+      "source": "The Pink Panther Strikes Again",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1442,
+      "quote": "It is not our abilities that show us what we truly are. It is our choices.",
+      "speaker": "Richard Harris",
+      "character": null,
+      "source": "Harry Potter and the Chamber of Secrets",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1443,
+      "quote": "I forgot my mantra.",
+      "speaker": "Jeff Goldblum",
+      "character": null,
+      "source": "Annie Hall",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1444,
+      "quote": "Just when I thought I was out, they pull me back in.",
+      "speaker": "Al Pacino",
+      "character": null,
+      "source": "The Godfather Part II",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1445,
+      "quote": "It depends on who\u2019s in the saddle.",
+      "speaker": "Lauren Bacall",
+      "character": null,
+      "source": "The Big Sleep",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1446,
+      "quote": "We belong dead.",
+      "speaker": "Boris Karloff",
+      "character": null,
+      "source": "The Bride of Frankenstein",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1447,
+      "quote": "Why don\u2019t you go outside and jerk yourself a soda?",
+      "speaker": "Annette Benning",
+      "character": null,
+      "source": "Bugsy",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1448,
+      "quote": "Is that my daughter in there!?",
+      "speaker": "Sean Penn",
+      "character": null,
+      "source": "Mystic River",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1449,
+      "quote": "There are eight million stories in the naked city. This has been one of them.",
+      "speaker": "Mark Hellinger",
+      "character": null,
+      "source": "The Naked City",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1450,
+      "quote": "Chill-dren\u2026",
+      "speaker": "Robert Mitchum",
+      "character": null,
+      "source": "The Night of the Hunter",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1451,
+      "quote": "Listen to me, mister. You\u2019re my knight in shining armor. Don\u2019t you forget it! You\u2019re going to get back on that horse, and I\u2019m going to be right behind you, holding on tight, and away we\u2019re gonna go, go, go!",
+      "speaker": "Katharine Hepburn",
+      "character": null,
+      "source": "On Golden Pond",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1452,
+      "quote": "I\u2019d love to kiss you, but I just washed my hair.",
+      "speaker": "Bette Davis in Cabin",
+      "character": null,
+      "source": "Cabin in the Cotton",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1453,
+      "quote": "Always do the right thing.",
+      "speaker": "Ossie Davis",
+      "character": null,
+      "source": "Do the Right Thing",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1454,
+      "quote": "Yes, it used to be beautiful\u2014what with the rackets, whoring, guns.",
+      "speaker": "Burt Lancaster",
+      "character": null,
+      "source": "Atlantic City",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1455,
+      "quote": "How do I look?",
+      "speaker": "Audrey Hepburn",
+      "character": null,
+      "source": "Breakfast at Tiffany\u2019s",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max",
+        "Tubi",
+        "Pluto TV"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1456,
+      "quote": "Would you be shocked if I put on something more comfortable?",
+      "speaker": "Jean Harlow",
+      "character": null,
+      "source": "Hell\u2019s Angels",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1457,
+      "quote": "On this team, we fight for that inch!  On this team, we tear ourselves, and everyone around us to pieces for that inch.  We claw with our finger nails for that inch. Cause we know when we add up all those inches that\u2019s going to make the fucking difference between winning and losing\u2026between living and dying.",
+      "speaker": "Al Pacino",
+      "character": null,
+      "source": "Any Given Sunday",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1458,
+      "quote": "Better to be king for a night than schmuck for a lifetime.",
+      "speaker": "Robert De Niro",
+      "character": null,
+      "source": "The King of Comedy",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1459,
+      "quote": "You can\u2019t fool me, there ain\u2019t no Sanity Clause.",
+      "speaker": "Chico Marx",
+      "character": null,
+      "source": "A Night at the Opera",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1460,
+      "quote": "They are with me still \u2014 real in memory as they were in flesh, loving and beloved forever. How green was my valley then.",
+      "speaker": "Roddy McDowell",
+      "character": null,
+      "source": "How Green was My Valley",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1461,
+      "quote": "If I\u2019d been a ranch, they would\u2019ve named me the Bar Nothing.",
+      "speaker": "Rita Hayworth",
+      "character": null,
+      "source": "Gilda",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1462,
+      "quote": "This is this.",
+      "speaker": "Robert DeNiro",
+      "character": null,
+      "source": "The Deer Hunter",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1463,
+      "quote": "It\u2019s a Sicilian message.  It means Luca Brasi sleeps with the fishes.",
+      "speaker": "Richard S. Castellano",
+      "character": null,
+      "source": "The Godfather",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1464,
+      "quote": "Mrs. Robinson, you\u2019re trying to seduce me, aren\u2019t you?",
+      "speaker": "Dustin Hoffman",
+      "character": null,
+      "source": "The Graduate",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1465,
+      "quote": "I suggest that we give him ten years in Leavenworth, or eleven years in Twelveworth.",
+      "speaker": "Groucho Marx",
+      "character": null,
+      "source": "Duck Soup",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1466,
+      "quote": "Life will find a way.",
+      "speaker": "Jeff Goldblum",
+      "character": null,
+      "source": "Jurassic Park",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1467,
+      "quote": "You\u2019re tearing me apart!",
+      "speaker": "James Dean",
+      "character": null,
+      "source": "Rebel without a Cause",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1468,
+      "quote": "Life is pain, Highness!  Anyone who says differently is selling something.",
+      "speaker": "Cary Elwes",
+      "character": null,
+      "source": "The Princess Bride",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Hulu"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1469,
+      "quote": "In my case, self-absorption is completely justified. I have never discovered any other subject so worthy of my attention.",
+      "speaker": "Clifton Webb",
+      "character": null,
+      "source": "Laura",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1470,
+      "quote": "There\u2019s a speed limit in this state, Mr. Neff.  45 miles an hour.",
+      "speaker": "Barbara Stanwyck",
+      "character": null,
+      "source": "Double Idemnity",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1471,
+      "quote": "I have nipples, Greg.  Could you milk me?",
+      "speaker": "Robert DeNiro",
+      "character": null,
+      "source": "Meet the Parents",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1472,
+      "quote": "Jane.  Tarzan.  Jane.  Tarzan.",
+      "speaker": "Johnny Weissmuller",
+      "character": null,
+      "source": "Tarzan the Ape Man",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1473,
+      "quote": "Well, it\u2019s not the men in your life that counts, it\u2019s the life in your men.",
+      "speaker": "Mae West",
+      "character": null,
+      "source": "I\u2019m No Angel",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1474,
+      "quote": "Ninotchka, it\u2019s midnight.  One half of Paris is making love to the other half.",
+      "speaker": "Melvyn Douglas",
+      "character": null,
+      "source": "Ninotchka",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1475,
+      "quote": "Okay, but I get to be on top.",
+      "speaker": "Tom Hanks",
+      "character": null,
+      "source": "Big",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1476,
+      "quote": "Stop making noises like a husband.",
+      "speaker": "Ann Savage",
+      "character": null,
+      "source": "Detour",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1477,
+      "quote": "Do, or do not.  There is no try.",
+      "speaker": "Frank Oz",
+      "character": null,
+      "source": "Star Wars V: The Empire Strikes Back",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1478,
+      "quote": "Smile!",
+      "speaker": "Charlie Chaplin",
+      "character": null,
+      "source": "Modern Times",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1479,
+      "quote": "Well, Tillie, when the hell are we going to get some dinner?",
+      "speaker": "Spencer Tracy",
+      "character": null,
+      "source": "Guess Who\u2019s Coming to Dinner?",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1480,
+      "quote": "Fill your hands, you son-of-a-bitch!",
+      "speaker": "John Wayne",
+      "character": null,
+      "source": "True Grit",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1481,
+      "quote": "Funny like I\u2019m a clown; do I amuse you?",
+      "speaker": "Joe Pesci",
+      "character": null,
+      "source": "Goodfellas",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1482,
+      "quote": "Hey, Bud, let\u2019s party!",
+      "speaker": "Sean Penn",
+      "character": null,
+      "source": "Fast Times at Ridgemont High",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1483,
+      "quote": "Excellent!",
+      "speaker": "Keanu Reeves and Alex Winter",
+      "character": null,
+      "source": "Bill and Ted\u2019s Excellent Adventure",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1484,
+      "quote": "I think people should mate for life, like pigeons or Catholics.",
+      "speaker": "Woody Allen",
+      "character": null,
+      "source": "Manhattan",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1485,
+      "quote": "Are you gonna bark all day, little doggie, or are you gonna bite?",
+      "speaker": "Michael Madsen",
+      "character": null,
+      "source": "Reservoir Dogs",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1486,
+      "quote": "Dyin\u2019 ain\u2019t much of a livin\u2019, boy.",
+      "speaker": "Clint Eastwood",
+      "character": null,
+      "source": "The Outlaw Josey Wales",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1487,
+      "quote": "Fat, drunk and stupid is no way to go through life, son.",
+      "speaker": "John Vernon",
+      "character": null,
+      "source": "National Lampoon\u2019s Animal House",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1488,
+      "quote": "I could\u2019ve saved more.",
+      "speaker": "Liam Neeson",
+      "character": null,
+      "source": "Schindler\u2019s List",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1489,
+      "quote": "Leave the gun.  Take the cannolis.",
+      "speaker": "Richard S. Castellano",
+      "character": null,
+      "source": "The Godfather",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1490,
+      "quote": "You think I\u2019m licked. You all think I\u2019m licked. Well, I\u2019m not licked! And I\u2019m going to stay right here and fight for this lost cause!",
+      "speaker": "James Stewart",
+      "character": null,
+      "source": "Mr. Smith Goes to Washington",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1491,
+      "quote": "I love you. I\u2019ve loved you since the first moment I saw you. I guess maybe I\u2019ve even loved you before I saw you.",
+      "speaker": "Montgomery Clift in A Place",
+      "character": null,
+      "source": "the Sun",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1492,
+      "quote": "You know, Billy, we blew it.",
+      "speaker": "Peter Fonda",
+      "character": null,
+      "source": "Easy Rider",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1493,
+      "quote": "If I hold you any closer, I\u2019ll be in back of you.",
+      "speaker": "Groucho Marx",
+      "character": null,
+      "source": "A Day at the Races",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1494,
+      "quote": "Insanity runs in my family.  It practically gallops.",
+      "speaker": "Cary Grant",
+      "character": null,
+      "source": "Arsenic and Old Lace",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1495,
+      "quote": "Why don\u2019t you get out of that wet coat and into a dry martini?",
+      "speaker": "Robert Benchley",
+      "character": null,
+      "source": "The Major and the Minor",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1496,
+      "quote": "For what we are about to see next, we must enter quietly into the realm of genius!",
+      "speaker": "Gene Wilder",
+      "character": null,
+      "source": "Young Frankenstein",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1497,
+      "quote": "With my brains and your looks, we could go places.",
+      "speaker": "John Garfield",
+      "character": null,
+      "source": "The Postman Always Rings Twice",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1498,
+      "quote": "Parfait\u2019s gotta be the most delicious thing on the whole damn planet!",
+      "speaker": "Eddie Murphy",
+      "character": null,
+      "source": "Shrek",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1499,
+      "quote": "So let it be written, so let it be done.",
+      "speaker": "Yul Brynner",
+      "character": null,
+      "source": "The Ten Commandments",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1500,
+      "quote": "In Switzerland, they had brotherly love, they had 500 years of democracy and peace. And what did that produce? The cuckoo clock.",
+      "speaker": "Orson Welles",
+      "character": null,
+      "source": "The Third Man",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1501,
+      "quote": "Do you want a leg or a breast?",
+      "speaker": "Grace Kelly",
+      "character": null,
+      "source": "To Catch a Thief",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1502,
+      "quote": "I bet you can squeal like a pig.",
+      "speaker": "Bill McKinney",
+      "character": null,
+      "source": "Deliverance",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1503,
+      "quote": "I like to watch.",
+      "speaker": "Peter Sellers",
+      "character": null,
+      "source": "Being There",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max",
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1504,
+      "quote": "To my big brother George, the richest man in town!",
+      "speaker": "Todd Karns",
+      "character": null,
+      "source": "It\u2019s a Wonderful Life",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1505,
+      "quote": "Oh, Frank, my lips are hot.  Kiss my hot lips.",
+      "speaker": "Sally Kellerman",
+      "character": null,
+      "source": "M*A*S*H*",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1506,
+      "quote": "We didn\u2019t land on Plymouth Rock\u2014Plymouth Rock landed on us!",
+      "speaker": "Denzel Washington",
+      "character": null,
+      "source": "Malcolm X",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1507,
+      "quote": "Would you like me to tell you the little story of right hand, left hand? The story of good and evil? H-A-T-E. It was with this left hand that old brother Cain struck the blow that laid his brother low. L-O-V-E. You see these fingers, dear hearts? These fingers has veins that run straight to the soul of man\u2014the right hand, friends, the hand of love.",
+      "speaker": "Robert Mitchum",
+      "character": null,
+      "source": "The Night of the Hunter",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1508,
+      "quote": "You know the difference between you and me?  I make this look good.",
+      "speaker": "Will Smith in Men",
+      "character": null,
+      "source": "Black",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1509,
+      "quote": "I don\u2019t care if you like each other, but you will respect each other.",
+      "speaker": "Denzel Washington",
+      "character": null,
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1510,
+      "quote": "I do not know how to kiss, or I would kiss you.  Where do the noses go?",
+      "speaker": "Ingrid Bergman",
+      "character": null,
+      "source": "For Whom the Bell Tolls",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1511,
+      "quote": "Warriors, come out to play!",
+      "speaker": "David Patrick Kelly",
+      "character": null,
+      "source": "Warriors",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1512,
+      "quote": "Remember, you\u2019re fighting for this woman\u2019s honor, which is probably more than she ever did.",
+      "speaker": "Groucho Marx",
+      "character": null,
+      "source": "Duck Soup",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1513,
+      "quote": "Not many people know it, but the F\u00fchrer was a terrific dancer",
+      "speaker": "Kenneth Mars",
+      "character": null,
+      "source": "The Producers",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1514,
+      "quote": "Never give up!  Never surrender!",
+      "speaker": "Tim Allen",
+      "character": null,
+      "source": "Galaxy Quest",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1515,
+      "quote": "It\u2019s a hell of a thing killin\u2019 a man. You take away all he\u2019s got and all he\u2019s ever gonna have.",
+      "speaker": "Clint Eastwood",
+      "character": null,
+      "source": "Unforgiven",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1516,
+      "quote": "Madness.  Madness.",
+      "speaker": "James Donald",
+      "character": null,
+      "source": "The Bridge on the River Kwai",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1517,
+      "quote": "One drink\u2019s too many, and a hundred\u2019s not enough.",
+      "speaker": "Howard da Silva",
+      "character": null,
+      "source": "The Lost Weekend",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1518,
+      "quote": "Snakes.  Why did it have to be snakes?",
+      "speaker": "Harrison Ford",
+      "character": null,
+      "source": "Raiders of the Lost Ark",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1519,
+      "quote": "You\u2019re lit from within, Tracy. You\u2019ve got fires banked down in you, hearth-fires and holocausts.",
+      "speaker": "James Stewart",
+      "character": null,
+      "source": "The Philadelphia Story",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1520,
+      "quote": "I had a farm in Africa.",
+      "speaker": "Meryl Streep",
+      "character": null,
+      "source": "Out of Africa",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1521,
+      "quote": "Fear is the path to the dark side.  Fear leads to anger; anger leads to hate; hate leads to suffering.",
+      "speaker": "Frank Oz",
+      "character": null,
+      "source": "Star Wars I: The Phantom Menace",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1522,
+      "quote": "I\u2019m hysterical! I\u2019m having hysterics. I\u2019m hysterical. I can\u2019t stop when I get like this. I can\u2019t stop. I\u2019m hysterical!",
+      "speaker": "Gene Wilder",
+      "character": null,
+      "source": "The Producers",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1523,
+      "quote": "All my life, I wanted to be a gangster.",
+      "speaker": "Ray Liotta",
+      "character": null,
+      "source": "Goodfellas",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1524,
+      "quote": "I\u2019m disinclined to acquiesce to your request\u2026It means \u2018no.\u2019",
+      "speaker": "Geoffrey Rush",
+      "character": null,
+      "source": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1525,
+      "quote": "Just a bit outside!",
+      "speaker": "Bob Uecker",
+      "character": null,
+      "source": "Major League",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1526,
+      "quote": "Sonny, true love is the greatest thing in the world\u2014except for a nice MLT: mutton, lettuce, and tomato salad, where the mutton is nice and lean and the tomato is ripe\u2014they\u2019re so perky, I love that.",
+      "speaker": "Billy Crystal",
+      "character": null,
+      "source": "The Princess Bride",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Hulu"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1527,
+      "quote": "I\u2019m an excellent driver.",
+      "speaker": "Dustin Hoffman",
+      "character": null,
+      "source": "Rain Man",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1528,
+      "quote": "Women should be kept illiterate and clean\u2014like canaries.",
+      "speaker": "Roscoe Karns",
+      "character": null,
+      "source": "Woman of the Year",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1529,
+      "quote": "Oh, you betcha.",
+      "speaker": "Frances McDormand",
+      "character": null,
+      "source": "Fargo",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1530,
+      "quote": "Fiddle-dee-dee.",
+      "speaker": "Vivien Leigh",
+      "character": null,
+      "source": "Gone with the Wind",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1531,
+      "quote": "They call it a \u2018Royale with cheese.\u2019",
+      "speaker": "John Travolta",
+      "character": null,
+      "source": "Pulp Fiction",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1532,
+      "quote": "You need kissing, badly. That\u2019s what\u2019s wrong with you. You should be kissed and often, and by someone who knows how.",
+      "speaker": "Clark Gable",
+      "character": null,
+      "source": "Gone With the Wind",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1533,
+      "quote": "You never got me down, Ray!",
+      "speaker": "Robert DeNiro",
+      "character": null,
+      "source": "Raging Bull",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1534,
+      "quote": "They say that the best weapon is the one you never have to fire. I respectfully disagree. I prefer the weapon you only have to fire once. That\u2019s how Dad did it, that\u2019s how America does it, and it\u2019s worked out pretty well so far.",
+      "speaker": "Robert Downey, Jr.",
+      "character": null,
+      "source": "Iron Man",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1535,
+      "quote": "I\u2019m not bad, I\u2019m just drawn that way.",
+      "speaker": "Kathleen Turner",
+      "character": null,
+      "source": "Who Framed Roger Rabbit?",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1536,
+      "quote": "Mary Poppins: practically perfect in every way.",
+      "speaker": "Julie Andrews",
+      "character": null,
+      "source": "Mary Poppins",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1537,
+      "quote": "We\u2019re not worthy!",
+      "speaker": "Dana Carvey and Mike Myers",
+      "character": null,
+      "source": "Wayne\u2019s World",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1538,
+      "quote": "I\u2019ll remember you, honey.  You\u2019re the one that got away.",
+      "speaker": "Paul Newman",
+      "character": null,
+      "source": "Hud",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1539,
+      "quote": "Chance is the fool\u2019s name for fate.",
+      "speaker": "Fred Astaire",
+      "character": null,
+      "source": "The Gay Divorcee",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1540,
+      "quote": "Day ain\u2019t over yet.",
+      "speaker": "Jack Palance",
+      "character": null,
+      "source": "City Slickers",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1541,
+      "quote": "I ain\u2019t so tough.",
+      "speaker": "James Cagney",
+      "character": null,
+      "source": "The Public Enemy",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1542,
+      "quote": "What is your major malfunction!?",
+      "speaker": "R. Lee Emery",
+      "character": null,
+      "source": "Full Metal Jacket",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1543,
+      "quote": "Not much meat on her, but what is there is choice.",
+      "speaker": "Spencer Tracy",
+      "character": null,
+      "source": "Pat and Mike",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1544,
+      "quote": "Maybe I was wrong and luck is like love.  You have to go all the way to find it.",
+      "speaker": "Robert Mitchum",
+      "character": null,
+      "source": "Out of the Past",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1545,
+      "quote": "There\u2019s more to life than being ridiculously good-looking.",
+      "speaker": "Ben Stiller",
+      "character": null,
+      "source": "Zoolander",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1546,
+      "quote": "One, two Freddie\u2019s coming for you\u2026",
+      "speaker": "Ensemble of Children",
+      "character": null,
+      "source": "Nightmare on Elm\u2019s Street",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1547,
+      "quote": "You\u2019re next!  You\u2019re next!",
+      "speaker": "Kevin McCarthy",
+      "character": null,
+      "source": "Invasion of the Body Snatchers",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1548,
+      "quote": "Never give a sucker an even break.",
+      "speaker": "W.C. Fields",
+      "character": null,
+      "source": "Poppy",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1549,
+      "quote": "Argo, fuck yourself!",
+      "speaker": "Alan Arkin",
+      "character": null,
+      "source": "Argo",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1550,
+      "quote": "I\u2019ll see you at the opera tonight. I\u2019ll hold your seat till you get there. After you get there you\u2019re on your own.",
+      "speaker": "Groucho Marx",
+      "character": null,
+      "source": "Duck Soup",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1551,
+      "quote": "But with a little sex in it.",
+      "speaker": "Robert Warwick",
+      "character": null,
+      "source": "Sullivan\u2019s Travels",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1552,
+      "quote": "It took more than one man to change my name to Shanghai Lily.",
+      "speaker": "Marlene Dietrich",
+      "character": null,
+      "source": "Shanghai Express",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1553,
+      "quote": "I\u2019ll alert the media.",
+      "speaker": "John Gielgud",
+      "character": null,
+      "source": "Arthur",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1554,
+      "quote": "I don\u2019t know how to put this, but I\u2019m kind of a big deal\u2026people know me\u2026I\u2019m very important.  I have many leather-bound books and my apartment smells of rich mahogany.",
+      "speaker": "Will Ferrell",
+      "character": null,
+      "source": "Anchorman: The Legend of Ron Burgundy",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1555,
+      "quote": "You\u2019re so money, you don\u2019t even know it.",
+      "speaker": "Vince Vaughn",
+      "character": null,
+      "source": "Swingers",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1556,
+      "quote": "Goodbye, Mr. Anderson.",
+      "speaker": "Hugo Weaving",
+      "character": null,
+      "source": "The Matrix",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1557,
+      "quote": "Never apologize and never explain\u2014it\u2019s a sign of weakness.",
+      "speaker": "John Wayne",
+      "character": null,
+      "source": "She Wore a Yellow Ribbon",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1558,
+      "quote": "Dignity.  Always dignity.",
+      "speaker": "Gene Kelly in Singin\u2019",
+      "character": null,
+      "source": "In a Lonely Place",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [],
+      "streaming_checked": true
+    },
+    {
+      "id": 1559,
+      "quote": "Would you like to play a game?",
+      "speaker": "James Ackerman",
+      "character": null,
+      "source": "War Games",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1560,
+      "quote": "I have a head for business and a bod for sin.",
+      "speaker": "Melanie Griffith",
+      "character": null,
+      "source": "Working Girl",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1561,
+      "quote": "If they move, kill \u2018em.",
+      "speaker": "William Holden",
+      "character": null,
+      "source": "The Wild Bunch",
+      "year": null,
+      "categories": [
+        "random"
+      ],
+      "streaming": [
+        "Tubi",
+        "Pluto TV",
+        "Plex",
+        "Roku"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 1562,
+      "quote": "Face it girls, I\u2019m older and I have more insurance.",
+      "speaker": "Kathy Bates",
+      "character": null,
+      "source": "Fried Green Tomatoes",
       "year": null,
       "categories": [
         "random"
