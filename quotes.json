@@ -3,7 +3,8 @@
     "name": "Quoteline",
     "tagline": "Fresh lines, daily.",
     "total_daily": 365,
-    "updated": "2026-09-30"
+    "updated": "2026-09-30",
+    "quote_count": 922
   },
   "quotes": [
     {
@@ -8990,6 +8991,4521 @@
         "Tubi"
       ],
       "id": 601,
+      "streaming_checked": true
+    },
+    {
+      "id": 602,
+      "quote": "Come on, kid! Concentrate! Use your head!",
+      "speaker": "Danny DeVito",
+      "character": "Philoctetes Phil",
+      "source": "Hercules",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 603,
+      "quote": "I don't know what's out there beyond those hills, but if you ride yonder, head up, eyes steady, heart open, I think one day you'll find that you're the hero you've been looking for.",
+      "speaker": "James Stewart",
+      "character": "Wylie Burp",
+      "source": "An American Tail: Fievel Goes West",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 604,
+      "quote": "I can feel it right down to these stubby bowlegs of mine. There is nothin' you can't do, kid.",
+      "speaker": "Danny DeVito",
+      "character": "Philoctetes Phil",
+      "source": "Hercules",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 605,
+      "quote": "No! I won't stop. For every minute of the rest of my life I will fight.",
+      "speaker": "Mandy Moore",
+      "character": "Rapunzel",
+      "source": "Tangled",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 606,
+      "quote": "You see, in every job that must be done there is an element of fun. You find the fun, and snap! The job's a game.",
+      "speaker": "Julie Andrews",
+      "character": "Mary Poppins",
+      "source": "Mary Poppins",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 607,
+      "quote": "Listen up! Use those big brains of yours and think your way around the problem. Look for a new angle.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 608,
+      "quote": "But to beat me, he's going to have to kill me. And to kill me, he's gonna have to have the heart to stand in front of me. And to do that, he's got to be willing to die himself.",
+      "speaker": "Sylvester Stallone",
+      "character": "Rocky Balboa",
+      "source": "Rocky IV (1985)",
+      "year": 1985,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 609,
+      "quote": "I train my men to win! Win! Always win! By fair means or foul, by soft words and hard deeds, by treachery, by cunning, by malpractice, but always win.",
+      "speaker": "Peter Ustinov",
+      "character": "Captain Blackbeard",
+      "source": "Blackbeard's Ghost (1968)",
+      "year": 1968,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 610,
+      "quote": "This city's got a beat. You gotta hook into it. And once you got the beat, you can do anything.",
+      "speaker": "Billy Joel",
+      "character": "Dodger",
+      "source": "Oliver & Company (1988)",
+      "year": 1988,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 611,
+      "quote": "Courage, men, courage. Don't be nervous.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 612,
+      "quote": "Don't let the wish grow cold!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 613,
+      "quote": "When we get out there we're gonna yank'em and tear'em and rip'em. We're gonna take'em and roll 'em around and rip'em up to pieces! Then we're gonna slaughter 'em!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 614,
+      "quote": "We're just going through a rough time, sir. Everyone knows you're going to get us through it.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 615,
+      "quote": "I need to hear that kind of stuff. If I had this kind of support on a 24-hour-a-day basis, I could whip myself into shape by the end of this century.",
+      "speaker": "Bill Murray",
+      "character": "Peter Venkman",
+      "source": "Ghostbusters II",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Peacock"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 616,
+      "quote": "May it be a light for you in dark places when all other lights go out.",
+      "speaker": "Cate Blanchett",
+      "character": "Galadriel",
+      "source": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 617,
+      "quote": "Never give up and good luck will find you.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 618,
+      "quote": "I'll tell you what I can do. I can kill the first man who so much as whispers a word about giving up. The very first man, so help me, I'll blow his head off!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 619,
+      "quote": "Now, you're gonna have to go through hell, worse than any nightmare that you ever dreamed. But in the end, I know you'll be the one standing.",
+      "speaker": "Tony Burton",
+      "character": "Tony Duke Evers",
+      "source": "Rocky IV (1985)",
+      "year": 1985,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 620,
+      "quote": "What, are you crying? You don't cry, you keep your chin up. Come on, keep your chin up. Crying never helped anybody do anything. Okay? If you have a problem, you face it like a man.",
+      "speaker": "Robin Williams",
+      "character": "Alan Parrish",
+      "source": "Jumanji (1995)",
+      "year": 1995,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 621,
+      "quote": "You can overcome any adversary, no matter how bizarre their powers may seem. There is always a way.",
+      "speaker": "Christopher Lambert",
+      "character": "Raiden",
+      "source": "Mortal Kombat (1995)",
+      "year": 1995,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 622,
+      "quote": "Every man dies. Not every man really lives.",
+      "speaker": "Mel Gibson",
+      "character": "William Wallace",
+      "source": "Braveheart (1995)",
+      "year": 1995,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 623,
+      "quote": "Those people are going to love you. You know why? Because you're a winner. And you're adorable! And everyone loves an adorable winner! -Yeah!",
+      "speaker": "John C. Reilly",
+      "character": "Wreck It Ralph",
+      "source": "Wreck-It Ralph",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 624,
+      "quote": "I had to win. You see, I'd made winning my whole life. And when you make winning your whole life, you have to keep on winning. No matter what. You understand that?",
+      "speaker": "John Candy",
+      "character": "Irv Blitzer",
+      "source": "Cool Runnings",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 625,
+      "quote": "Contestants, if you hear me back there... You don't need to be number one as you amble down life's highway, but don't be last!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 626,
+      "quote": "The word 'impossible' is only found in a dictionary of fools.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 627,
+      "quote": "Listen to my voice. There's nothing below you. There's nothing around you. We are one.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 628,
+      "quote": "We can't. -Say. How come? Why not? Where does it say that?",
+      "speaker": "Paul Winchell",
+      "character": "Tigger",
+      "source": "The New Adventures of Winnie the Pooh",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 629,
+      "quote": "Enough lollygagging. Time to get to work. It's a long way to Tipperary.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 630,
+      "quote": "Look inside yourself, Simba. You are more than what you have become. You must take your place in the circle of life.",
+      "speaker": "James Earl Jones",
+      "character": "Mufasa",
+      "source": "The Lion King (1994)",
+      "year": 1994,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 631,
+      "quote": "Can you feel it? You guys, do you feel this? Our origin story begins. We're gonna be superheroes!",
+      "speaker": "T.J. Miller",
+      "character": "Fred",
+      "source": "Big Hero 6",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 632,
+      "quote": "There's a way out of anything, man. Just keep your pecker hard and your powder dry, and the world will turn.",
+      "speaker": "Keith David",
+      "character": "King",
+      "source": "Platoon",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 633,
+      "quote": "Why don't you knock it off with them negative waves? Why don't you dig how beautiful it is out here? Why don't you say something righteous and hopeful for a change?",
+      "speaker": "Donald Sutherland",
+      "character": "Tank Commander Oddball",
+      "source": "Kelly's Heroes",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 634,
+      "quote": "Yeah, a lot of pressure. You gotta rise above it. You gotta harness in the good energy, block out the bad. Harness energy, block bad.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 635,
+      "quote": "Feel the flow, feel it. It's circular. It's like a carousel. You pay the quarter, you get on the horse. It goes up and down and around. Circular. Circle. With the music, the flow. All good things.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 636,
+      "quote": "Think of a place that's really perfect. Your own happy place. Go there, and all your anger will just disappear.",
+      "speaker": "Carl Weathers",
+      "character": "Chubbs Peterson",
+      "source": "Happy Gilmore",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 637,
+      "quote": "I gotta get in shape now. Too much sitting has ruined my body. Too much abuse has gone on for too long.",
+      "speaker": "Robert De Niro",
+      "character": "Travis Bickle",
+      "source": "Taxi Driver (1976)",
+      "year": 1976,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 638,
+      "quote": "There ain't nothin' in the world worth losin' your pride for. Life don't mean nothin' unless you can hold your head up high.",
+      "speaker": "Mr. T",
+      "character": "B.A. Baracus",
+      "source": "The A-Team",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 639,
+      "quote": "Okay, everybody on their feet. It's showtime.",
+      "speaker": "George Peppard",
+      "character": "Col. John Hannibal Smith",
+      "source": "The A-Team",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 640,
+      "quote": "Cheer up, Face. Remember, it's always darkest just before it goes totally black.",
+      "speaker": "George Peppard",
+      "character": "Col. John Hannibal Smith",
+      "source": "The A-Team",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 641,
+      "quote": "Ultimately, we're all dead men. Sadly, we cannot choose how, but we can decide how we meet that end, in order that we are remembered as men.",
+      "speaker": "Oliver Reed",
+      "character": "Proximo",
+      "source": "Gladiator (2000)",
+      "year": 2000,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 642,
+      "quote": "I don't know, there's something about today. Maybe it's a day for a miracle.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 643,
+      "quote": "Okay, guys. We're going to the moon!",
+      "speaker": "Ed Harris",
+      "character": "Gene Kranz",
+      "source": "Apollo 13",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 644,
+      "quote": "That's right! We can't have anyone freak out out there, okay? We've got to keep our composure! We've come too far. There's too much to lose! We've got to just keep our composure!",
+      "speaker": "Will Ferrell",
+      "character": "Frank The Tank",
+      "source": "Old School",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 645,
+      "quote": "Calm and keep calm. That's most important if you're going to win. It's not easy to appear calm. But if you do then you'll win. Calm is natural, remember that.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 646,
+      "quote": "When you're racing, it's... It's life. Anything that happens before or after, it's just waiting.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 647,
+      "quote": "I know. It's almost impossible to succeed. But... who cares, really? The answer must be in the attempt.",
+      "speaker": "Julie Delpy",
+      "character": "Céline",
+      "source": "Before Sunrise",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 648,
+      "quote": "Pain is your friend, your ally! It will tell you when you are seriously injured! It will keep you awake and angry and remind you to finish the job and get the hell home!",
+      "speaker": "Viggo Mortensen",
+      "character": "Master Chief",
+      "source": "G.I. Jane",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 649,
+      "quote": "Well, let me just warn you. I'm gonna go through with this and the more everybody _s with me, the more I wanna gut it out.",
+      "speaker": "Demi Moore",
+      "character": "G.I. Jane",
+      "source": "G.I. Jane",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 650,
+      "quote": "Don't? Stop with the don't thoughts. Start with the do thoughts.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 651,
+      "quote": "Come on, Rudolph, you can do it. Make that nose really glow. Make it really shine.",
+      "speaker": "Red Skelton",
+      "character": "Father Time",
+      "source": "Rudolph's Shiny New Year",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 652,
+      "quote": "Look, the brave ones don't come home. You stay scared.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 653,
+      "quote": "A handicap is what you make of it.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 654,
+      "quote": "It's not personal. It's business. Recite that to yourself every time you feel you're losing your nerve.",
+      "speaker": "Tom Hanks",
+      "character": "Joe Fox",
+      "source": "You've Got Mail",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 655,
+      "quote": "Siblings, let us not be down on it. One total catastrophe like this... is just the beginning! Their glorious deaths shall unite us all!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 656,
+      "quote": "We are not going to be great. We are not going to be amazing. We are going to be amazingly amazing!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 657,
+      "quote": "As your agent, I expect nothing but success in our endeavors. Go out there and fight!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 658,
+      "quote": "There's no sacrifice too great for a chance at immortality. -Yes, sir.",
+      "speaker": "Humphrey Bogart",
+      "character": "Dix Steele",
+      "source": "In a Lonely Place",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 659,
+      "quote": "It's called process. You never want to stop learning, because if you do... -You die, right? -In many ways.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 660,
+      "quote": "You got anger. That's good. You're gonna need it, son. You got aggression. That's even better. You're gonna need that, too, but any 2-year-old child can throw a fit.",
+      "speaker": "Denzel Washington",
+      "character": "Coach Herman Boone",
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 661,
+      "quote": "Everything we gonna do is changing. We are change. We're gonna change the way we run. We're gonna change the way we eat. We're gonna change the way we block. We're gonna change the way we tackle. We're gonna change the way we win.",
+      "speaker": "Denzel Washington",
+      "character": "Coach Herman Boone",
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 662,
+      "quote": "You need a water break? Water is for cowards. Water makes you weak.",
+      "speaker": "Denzel Washington",
+      "character": "Coach Herman Boone",
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 663,
+      "quote": "Greek mythology, the titans were greater even than the gods. They ruled their universe with absolute power. Well, that football field out there tonight, that's our universe. Let's rule it like titans.",
+      "speaker": "Denzel Washington",
+      "character": "Coach Herman Boone",
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 664,
+      "quote": "Since when do you need a pedigree to help someone?",
+      "speaker": "Kevin Bacon",
+      "character": "Balto",
+      "source": "Balto (1995)",
+      "year": 1995,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 665,
+      "quote": "You've got to say: I'm a human being, goddamn it. My life has value.",
+      "speaker": "Peter Finch",
+      "character": "Howard Beale",
+      "source": "Network (1976)",
+      "year": 1976,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 666,
+      "quote": "You are under the unfortunate delusion that simply because you run away from danger you have no courage. You're confusing courage with wisdom.",
+      "speaker": "Frank Morgan",
+      "character": "The Wizard Of Oz",
+      "source": "The Wizard of Oz (1939)",
+      "year": 1939,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 667,
+      "quote": "Hey, come on, we'll be fine. We just have to keep our heads. And roll with the punches.",
+      "speaker": "Robin Williams",
+      "character": "Alan Parrish",
+      "source": "Jumanji (1995)",
+      "year": 1995,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 668,
+      "quote": "Dreams can begin small too.",
+      "speaker": "Renée Zellweger",
+      "character": "Angie",
+      "source": "Shark Tale",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 669,
+      "quote": "Come on, Steve. We've got diem to carpe.",
+      "speaker": "Bill Hader",
+      "character": "Flint Lockwood",
+      "source": "Cloudy with a Chance of Meatballs",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 670,
+      "quote": "The supers aren't gone, Mr. Incredible. You're still here. You can still do great things.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 671,
+      "quote": "You gotta get the ground beneath your feet, partner, get the wind behind your back, and go out in a blaze if you got to. Otherwise, you ain't _. You might as well be dead your damn self.",
+      "speaker": "Tupac Shakur",
+      "character": "Bishop",
+      "source": "Juice (1992)",
+      "year": 1992,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 672,
+      "quote": "Fear is a four-letter word, ladies. If you want to go pee-pee in your big-boy slacks, keep it to yourself.",
+      "speaker": "Jane Lynch",
+      "character": "Sergeant Calhoun",
+      "source": "Wreck-It Ralph",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 673,
+      "quote": "On the outside, maybe. But I'm looking inside, Stella, and I see a fox. And all we gotta do is get her out.",
+      "speaker": "Bruce Willis",
+      "character": "Rj",
+      "source": "Over the Hedge",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 674,
+      "quote": "Today your bedroom, tomorrow the world!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 675,
+      "quote": "Oh, buck up, son. It could be worse. Be cheerful... like me!",
+      "speaker": "Cliff Edwards",
+      "character": "Jiminy Cricket",
+      "source": "Pinocchio (1940)",
+      "year": 1940,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 676,
+      "quote": "Have faith in your dreams and someday your rainbow will come smiling through.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 677,
+      "quote": "All right, sweethearts. We're a team, and there's nothing to worry about. We come here, and we gonna conquer, and we gonna kick some.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 678,
+      "quote": "A toast to this night. -The outlook is rosy. -And the future is bright.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 679,
+      "quote": "You gotta be ready to go down, stand up, and die for that _ like Blizzard did if you want some juice.",
+      "speaker": "Tupac Shakur",
+      "character": "Bishop",
+      "source": "Juice (1992)",
+      "year": 1992,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 680,
+      "quote": "Honey, you'll always be just an egghead with an attitude like that.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 681,
+      "quote": "Nuke them. Let's nuke the bastards.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 682,
+      "quote": "All right, everyone, fresh start. We are gonna have a good day, which will turn into a good week, which will turn into a good year, which turns into a good life!",
+      "speaker": "Amy Poehler",
+      "character": "Joy",
+      "source": "Inside Out",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 683,
+      "quote": "Practice until you can meditate and nothing can distract you, so that you see and feel nothing except your own energy.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 684,
+      "quote": "Who then do I trust? -You must trust yourself. Trust your own strengths.",
+      "speaker": "Ian McKellen",
+      "character": "Gandalf",
+      "source": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 685,
+      "quote": "Yes, I can! Yes, I can!",
+      "speaker": "Eddie Murphy",
+      "character": "Sherman Klump",
+      "source": "The Nutty Professor (1996)",
+      "year": 1996,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 686,
+      "quote": "And I'm always telling the man, No matter what, you've got to strut. You got to suck in your gut and strut.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 687,
+      "quote": "No, sir, nothing can stop me now. I'll make good this time.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 688,
+      "quote": "Nil desperandum. We'll succeed. You'll see.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 689,
+      "quote": "Courage, man, courage. Every bursted bubble has a glory.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 690,
+      "quote": "Well, Peter, you shouldn't be afraid, even in a terrible place like this, because there's always hope.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 691,
+      "quote": "Don't stop it now! We start, and we don't stop! All your strength, all your power, all your love, everything you've got!",
+      "speaker": "Tony Burton",
+      "character": "Tony Duke Evers",
+      "source": "Rocky IV (1985)",
+      "year": 1985,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 692,
+      "quote": "If you won't fight with all of your heart, there is no hope.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 693,
+      "quote": "Though at times it may feel like the sky is falling around you, never give up. For every day is a new day!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 694,
+      "quote": "This is where we hold them! This is where we fight! This is where they die!",
+      "speaker": "Gerard Butler",
+      "character": "King Leonidas",
+      "source": "300",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 695,
+      "quote": "Oh, come now. Dash it all. Chin up. Stiff upper lip and all that.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 696,
+      "quote": "Brother, now don't blame yourself. You can try again! Just wait a while.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 697,
+      "quote": "I'm okay. My teacher told me that to succeed, one must always keep looking ahead. Come on, let's practice.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 698,
+      "quote": "Work out your root of attack, but prepare yourself for unexpected moves. Just be careful, go!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 699,
+      "quote": "Practice! You'll have to concentrate. Your mind is not on the job, you're wondering. Concentrate, now think about this work.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 700,
+      "quote": "Get it together. Control it. Don't feel. Don't feel. Don't feel. Don't feel!",
+      "speaker": "Idina Menzel",
+      "character": "Elsa",
+      "source": "Frozen",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 701,
+      "quote": "I kept it moving, fast, balanced, light. That is the secret. So balance your movements. Keep your steps light. That way you'll succeed.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 702,
+      "quote": "The very things that held you down are gonna carry you up and up and up!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 703,
+      "quote": "Fight to win, never be afraid. Be ruthless, be merciless. Be resourceful. Kill anyone who gets in your way. Your own brother, even God himself.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 704,
+      "quote": "That's a warrior's life. We either kill, or get killed. If you are not good, you'll die on the battle field. But if you are good, you'll spend your life fighting. Either way, we die in the end. It's not an easy life.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 705,
+      "quote": "Onward to victory! No one can defeat us now!",
+      "speaker": "Frank Welker",
+      "character": "Megatron",
+      "source": "The Transformers (1984)",
+      "year": 1984,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 706,
+      "quote": "We must keep fighting at all costs! I will lead us to victory yet!",
+      "speaker": "Frank Welker",
+      "character": "Megatron",
+      "source": "The Transformers (1984)",
+      "year": 1984,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 707,
+      "quote": "We're pinched, for sure. -No way. Only the meek get pinched. The bold survive. Let's go.",
+      "speaker": "Matthew Broderick",
+      "character": "Ferris Bueller",
+      "source": "Ferris Bueller's Day Off",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 708,
+      "quote": "I don't care how fast they run. I'm gonna run faster. I don't care how much they want it. I want it more.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 709,
+      "quote": "Well, you wanna know what I see? I see pride. I see power!",
+      "speaker": "Malik Yoba",
+      "character": "Yul Brenner",
+      "source": "Cool Runnings",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 710,
+      "quote": "Okay, guys, tonight's the night. Now, in a few minutes, you're gonna get a chance to do something that no one in your country has ever done.",
+      "speaker": "John Candy",
+      "character": "Irv Blitzer",
+      "source": "Cool Runnings",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 711,
+      "quote": "All right, it's time to go. But I want you to know, no matter what happens out there tonight... in my heart, each and every one of you is a champion.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 712,
+      "quote": "Do you know who I was? Nobody. Except on the day after, I was still alive. This nobody had a chance to be somebody.",
+      "speaker": "Tina Turner",
+      "character": "Aunty Entity",
+      "source": "Mad Max Beyond Thunderdome",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 713,
+      "quote": "We'll never be obsolete. Carry on the tradition. We're the best.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 714,
+      "quote": "Beethoven was deaf. Helen Keller was blind. I think Rocky's got a good chance.",
+      "speaker": "Talia Shire",
+      "character": "Adrian Balboa",
+      "source": "Rocky (1976)",
+      "year": 1976,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 715,
+      "quote": "You'll be able to spit nails, kid. Like the guy says, you're gonna eat lightning, and you're gonna crap thunder.",
+      "speaker": "Burgess Meredith",
+      "character": "Mickey Goldmill",
+      "source": "Rocky (1976)",
+      "year": 1976,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 716,
+      "quote": "Go! Confront the problem! Fight! Win!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 717,
+      "quote": "Try something fresher, something pleasant. Try again, don't give up.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 718,
+      "quote": "We're together now. Everything's going to be fine, you'll see.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 719,
+      "quote": "No, man, but you gotta keep going. What am I gonna do, quit? That's not an option. You got to keep on keepin' on.",
+      "speaker": "David Spade",
+      "character": "Joe Dirt",
+      "source": "Joe Dirt (2001)",
+      "year": 2001,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 720,
+      "quote": "He's quite the motivational speaker, isn't he?",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 721,
+      "quote": "We will not go quietly into the night! We will not vanish without a fight! We're going to live on! We're going to survive!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 722,
+      "quote": "All right, if you can drive as good as you can fix a road then you can win this race with your eyes shut. Now, get back out there!",
+      "speaker": "Paul Newman",
+      "character": "Doc Hudson",
+      "source": "Cars",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 723,
+      "quote": "We can still win this thing. It's not over with. We gotta come together. We gotta believe in ourselves. We can come back and win this game.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 724,
+      "quote": "Ready? Feel the rhythm, feel the rhyme, get on up, it's bobsled time! Cool runnings! On the track.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 725,
+      "quote": "Worse things have happened. I think we're gonna be fine. Color me up, will you?",
+      "speaker": "Robert Downey Jr.",
+      "character": "Tony Stark Iron Man",
+      "source": "Iron Man (2008)",
+      "year": 2008,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 726,
+      "quote": "Remember, the Force will be with you always.",
+      "speaker": "Alec Guinness",
+      "character": "Obi Wan Kenobi",
+      "source": "Star Wars: Episode IV - A New Hope",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 727,
+      "quote": "There's always tomorrow for dreams to come true. Tomorrow is not far away.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 728,
+      "quote": "Come on, guys, keep your head up. Got a whole other half to play.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 729,
+      "quote": "We're letting them push us around. We gotta fight them back. We gotta take it to them. We gotta get right in their faces.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 730,
+      "quote": "We're ready. -Better believe it.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 731,
+      "quote": "I know you're going to be there, and you're going to be great. In fact, I know you're going to be perfect.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 732,
+      "quote": "Okay, people, people, look alive. Let's go. Come on. Get up. Let's move it. Rise and shine. Y'all way past the beauty sleep thing, trust me.",
+      "speaker": "Eddie Murphy",
+      "character": "Mushu",
+      "source": "Mulan (1998)",
+      "year": 1998,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 733,
+      "quote": "If you go through with this, you've got to win. If you muck it up, don't ever think of coming back here, except in your coffin.",
+      "speaker": "Noël Coward",
+      "character": "Mr. Bridger",
+      "source": "The Italian Job (1969)",
+      "year": 1969,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 734,
+      "quote": "Don't worry, old fellow. It's not entirely hopeless.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 735,
+      "quote": "Why are you sitting there resting when we're so near the end? Come on, let's go!",
+      "speaker": "Sean Connery",
+      "character": "Henry Jones",
+      "source": "Indiana Jones and the Last Crusade",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 736,
+      "quote": "No one's ever really disabled as long as he had courage!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 737,
+      "quote": "Now don't you go and give up, give out or give in. When the going's rough, just get tough and just tell yourself you're gonna win.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 738,
+      "quote": "You nervous? -I'm not nervous. I'm ready. I've been ready for this day my whole life.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 739,
+      "quote": "Maybe today is a bad day. -Yeah. -I'll come back tomorrow. And the next day. And the next day.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 740,
+      "quote": "I never look back, darling. It distracts from the now.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 741,
+      "quote": "Stay fit. Keep sharp. Make good decisions.",
+      "speaker": "Rick Moranis",
+      "character": "Louis Tully",
+      "source": "Ghostbusters II",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Peacock"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 742,
+      "quote": "You listen to me, my boy. I've made a living out of being a failure. And you, sir, are not a failure!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 743,
+      "quote": "Even the smallest person can change the course of the future.",
+      "speaker": "Cate Blanchett",
+      "character": "Galadriel",
+      "source": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 744,
+      "quote": "And you must not let anyone define your limits because of where you come from. Your only limit is your soul.",
+      "speaker": "Brad Garrett",
+      "character": "Auguste Gusteau",
+      "source": "Ratatouille",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 745,
+      "quote": "It's gonna be fine, baby. It's gonna be a nice, fine, boring life.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 746,
+      "quote": "You're a tiger. You're stronger than I am. When you set your mind on doing something, you do it better than anybody.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 747,
+      "quote": "Now remember, when things look bad, and it looks like you won't make it, then you got to get mean. I mean plumb, mad-dog mean!",
+      "speaker": "Clint Eastwood",
+      "character": "Josey Wales",
+      "source": "The Outlaw Josey Wales",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 748,
+      "quote": "If we stop breathing, we'll die. If we stop fighting our enemies, the world will die.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 749,
+      "quote": "And you don't win for anybody else, you win for you. You know why? Because a man takes what he wants, he takes it all. And you're a man, aren't you? Aren't you?",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 750,
+      "quote": "My _ing warriors, who will not hang up the phone until their client either buys or _ing dies!",
+      "speaker": "Leonardo DiCaprio",
+      "character": "Jordan Belfort",
+      "source": "The Wolf of Wall Street",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 751,
+      "quote": "I want you to deal with your problems by becoming rich!",
+      "speaker": "Leonardo DiCaprio",
+      "character": "Jordan Belfort",
+      "source": "The Wolf of Wall Street",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 752,
+      "quote": "I don't believe in the no-win scenario.",
+      "speaker": "William Shatner",
+      "character": "Captain James T. Kirk",
+      "source": "Star Trek II: The Wrath of Khan",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 753,
+      "quote": "All's I got to do is keep being a good person. No matter what, good things'll come my way.",
+      "speaker": "David Spade",
+      "character": "Joe Dirt",
+      "source": "Joe Dirt (2001)",
+      "year": 2001,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 754,
+      "quote": "Uh-uh, man. You can't have no in your heart. No is not an option, brother.",
+      "speaker": "David Spade",
+      "character": "Joe Dirt",
+      "source": "Joe Dirt (2001)",
+      "year": 2001,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 755,
+      "quote": "I must not fear. Fear is the mind killer.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 756,
+      "quote": "And you've gotta fight! That's life. And when you stop fightin', that's death.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 757,
+      "quote": "Oh, I'm going to be fresh. Straight out the ground. Tasty fresh! Freshalicious. Ziploc fresh.",
+      "speaker": "Chris Rock",
+      "character": "Marty The Zebra",
+      "source": "Madagascar",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 758,
+      "quote": "Young brother, I think you can do anything you put your mind to.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 759,
+      "quote": "Just remember. If you hang in there long enough, good things can happen in this world. I mean, look at me.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 760,
+      "quote": "If the limit never approaches anything... The limit does not exist. The limit does not exist!",
+      "speaker": "Lindsay Lohan",
+      "character": "Cady Heron",
+      "source": "Mean Girls (2004)",
+      "year": 2004,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 761,
+      "quote": "I don't believe in surrenders. I still got my saber, Reverend. Didn't turn it into no plowshare neither.",
+      "speaker": "John Wayne",
+      "character": "Ethan Edwards",
+      "source": "The Searchers (1956)",
+      "year": 1956,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 762,
+      "quote": "Look, I get it. You guys have concerns. But we've been through worse!",
+      "speaker": "Amy Poehler",
+      "character": "Joy",
+      "source": "Inside Out",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 763,
+      "quote": "I feel a lot of solid energy coming out of you. Good positive aura. Great, great, it's all great.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 764,
+      "quote": "It ain't over yet. The way I see it, we've only just begun.",
+      "speaker": "Adam Sandler",
+      "character": "Happy Gilmore",
+      "source": "Happy Gilmore",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 765,
+      "quote": "No doubt. Stay up, baby. Hold your head. One.",
+      "speaker": "Method Man",
+      "character": "Shameek",
+      "source": "Belly (1998)",
+      "year": 1998,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 766,
+      "quote": "You know what I think? Honestly? I think that once you're out there, and you're doing your thing out there, I think you're gonna be really great. Really great.",
+      "speaker": "Marisa Tomei",
+      "character": "Mona Lisa Vito",
+      "source": "My Cousin Vinny",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 767,
+      "quote": "Now that you finally won a game, right, you feel looser, the pressure is off. And that will lead to a lot more victories.",
+      "speaker": "Henry Winkler",
+      "character": "Coach Klein",
+      "source": "The Waterboy (1998)",
+      "year": 1998,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 768,
+      "quote": "Your time will come. You will face the same evil. And you will defeat it.",
+      "speaker": "Liv Tyler",
+      "character": "Arwen Undomiel",
+      "source": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 769,
+      "quote": "You do not know pain. You do not know fear. You will taste Man-flesh!",
+      "speaker": "Christopher Lee",
+      "character": "Saruman The White",
+      "source": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 770,
+      "quote": "The next gig is gonna be dynamite! Huge! You'll see.",
+      "speaker": "John Belushi",
+      "character": "Joliet Jake Blues",
+      "source": "The Blues Brothers (1980)",
+      "year": 1980,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 771,
+      "quote": "We're surrounded. Outnumbered. What are we to do? -Keep on fighting.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 772,
+      "quote": "Oh, boy. But it'll all be better tomorrow. Always is.",
+      "speaker": "John Candy",
+      "character": "Buck Russell",
+      "source": "Uncle Buck (1989)",
+      "year": 1989,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 773,
+      "quote": "Be firm. Don't let her run your life. You run it. Say it like you mean it, and most people will do whatever you want.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 774,
+      "quote": "That's why you gotta, right now, accept death. It, uh, calms you.",
+      "speaker": "Dirk Benedict",
+      "character": "Faceman",
+      "source": "The A-Team",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 775,
+      "quote": "These guys gotta have an Achilles' heel. We'll just keep pushing them and pushing them and pushing them until we find their weak link.",
+      "speaker": "George Peppard",
+      "character": "Col. John Hannibal Smith",
+      "source": "The A-Team",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 776,
+      "quote": "Oh, don't worry about it. As I always say, it's always darkest before the dawn and every cloud has a silver lining and it never rains but what... Oh.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 777,
+      "quote": "Look, friend, it's like riding a bike. You fall off, you get right back on. You mess up a date, do it again!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 778,
+      "quote": "This is not good. But I'm fine. I can deal with this.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 779,
+      "quote": "That why I know, deep down inside, you very, very strong. You strong like warrior. That's why I say to you, you can survive anything. Even...",
+      "speaker": "Eddie Murphy",
+      "character": "Hangten Wong",
+      "source": "Norbit",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 780,
+      "quote": "Even if we can't win, we can go down swinging.",
+      "speaker": "Edmund Gwenn",
+      "character": "Kris Kringle",
+      "source": "Miracle on 34th Street (1947)",
+      "year": 1947,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 781,
+      "quote": "I mean, just because things don't turn out the way you want them to the first time, you've still got to believe in people. I found that out.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 782,
+      "quote": "Something important has just happened. I was in the toilet reading my contract, and it turns out I get a bonus when we get to the World Series. So, let's play hard! Let's play smart!",
+      "speaker": "Tom Hanks",
+      "character": "Jimmy Dugan",
+      "source": "A League of Their Own",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 783,
+      "quote": "Kid, you can beat these guys. Find a groove that works for you and get that lap back.",
+      "speaker": "Paul Newman",
+      "character": "Doc Hudson",
+      "source": "Cars",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 784,
+      "quote": "Come back with your shield or on it. -Yes, milady.",
+      "speaker": "Lena Headey",
+      "character": "Queen Gorgo",
+      "source": "300",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 785,
+      "quote": "Are you gonna let that guy muscle in? Who's it gonna be? You... or him?",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 786,
+      "quote": "Once a pawn has crossed the line, he has to stay. There's no way back.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 787,
+      "quote": "Every day I practice eight hours, but it isn't enough. So then I'll do more! I'll practice 16 hours! I'll work till I drop!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 788,
+      "quote": "You tried. That's the true measure of a man. Whether you win or lose, to try.",
+      "speaker": "Adam West",
+      "character": "Batman",
+      "source": "Batman (1966)",
+      "year": 1966,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 789,
+      "quote": "The game is never over until the last out is made, chief. Never say die. We've had some dark moments in the past, haven't we?",
+      "speaker": "Burt Ward",
+      "character": "Robin",
+      "source": "Batman (1966)",
+      "year": 1966,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 790,
+      "quote": "For us the difficult doesn't exist. The impossible just takes a little more time.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 791,
+      "quote": "We're going to pull on our belts and pull up our boots. We'll see this thing through together. We've been through worse than this.",
+      "speaker": "Clint Eastwood",
+      "character": "Bronco Billy",
+      "source": "Bronco Billy",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 792,
+      "quote": "You can be anything you want. All you have to do is go out and become it.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 793,
+      "quote": "Andrew! You've got to be number one! I won't tolerate any losers in this family.",
+      "speaker": "Emilio Estevez",
+      "character": "Andrew Clark",
+      "source": "The Breakfast Club",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 794,
+      "quote": "Everyone in this world who ever dreamed about better things was laughed at. Don't you know that? -Oh, I suppose I do, but...",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 795,
+      "quote": "I'll listen to you, I won't rush. I'll wait the right time before I move. I will succeed.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 796,
+      "quote": "Now don't be silly. Even I can manage to support myself, and I'm a single girl. It's much easier for a man. There's no reason for you to give up.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 797,
+      "quote": "Then you think we can do it? -Do it? Why, there's nothin' a man can't do if he believes in himself. Never say die, that's my motto.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 798,
+      "quote": "Fairy tales can come true if you just wish them to, and there's nothing you can't achieve.",
+      "speaker": "Red Skelton",
+      "character": "Father Time",
+      "source": "Rudolph's Shiny New Year",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 799,
+      "quote": "We've come to the end of a perfect day. Let us go home now and enjoy the simple things in life, the good things, the real things: the laughter of a child, a distant church bell, a flight of swallows winging their way back to Capistrano.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 800,
+      "quote": "These things are minor irritations. I mean, it's nothing that we can't easily handle.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 801,
+      "quote": "I've gotta be the best ballplayer they've ever seen anywhere. That's the spirit.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 802,
+      "quote": "Go back and read what you wrote. You're better than the rest of'em. You're better than the Bob Sugars. Don't forget that.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 803,
+      "quote": "Cheer up, Brian. You know what they say. Some things in life are bad. They can really make you mad. Other things just make you swear and curse.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 804,
+      "quote": "When you're chewing on life's gristle, don't grumble, give a whistle and this'll help things turn out for the best.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 805,
+      "quote": "What have you got to lose? You come from nothing. You're going back to nothing. What have you lost? Nothing! Nothing will come from nothing. You know what they say?",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 806,
+      "quote": "I shall come back. I swear I shall come back, because I shall defeat them.",
+      "speaker": "Claude Rains",
+      "character": "Dr. Jack Griffin",
+      "source": "The Invisible Man (1933)",
+      "year": 1933,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 807,
+      "quote": "Excellent, excellent! -But I missed it again. -Yeah, but you're getting closer.",
+      "speaker": "Art Carney",
+      "character": "Ed Norton",
+      "source": "The Honeymooners (1955)",
+      "year": 1955,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 808,
+      "quote": "I want what all men want. I just want it more.",
+      "speaker": "Brad Pitt",
+      "character": "Achilles",
+      "source": "Troy",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 809,
+      "quote": "Bring all of your energy to one point and you'll be unbeatable. -Does he know that?",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 810,
+      "quote": "Defense is desire! Fire and desire.",
+      "speaker": "Will Patton",
+      "character": "Coach Bill Yoast",
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 811,
+      "quote": "All right. How many feet are in a mile? How many feet are in a mile? 5280 feet! You pick this ball up, you run every one of them!",
+      "speaker": "Denzel Washington",
+      "character": "Coach Herman Boone",
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 812,
+      "quote": "Will you ever quit? -No! We want some mo'! We want some mo'! We want some mo'!",
+      "speaker": "Denzel Washington",
+      "character": "Coach Herman Boone",
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 813,
+      "quote": "Let's knock 'em dead at state, Coach.",
+      "speaker": "Hayden Panettiere",
+      "character": "Sheryl Yoast",
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 814,
+      "quote": "What's 'can't'? There ain't no 'can'ts'! There's no 'can'ts'!",
+      "speaker": "Burgess Meredith",
+      "character": "Mickey Goldmill",
+      "source": "Rocky II",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 815,
+      "quote": "But first you gotta get speed. Demon speed. Speed's what we need. We need greasy, fast speed!",
+      "speaker": "Burgess Meredith",
+      "character": "Mickey Goldmill",
+      "source": "Rocky II",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 816,
+      "quote": "What's with this domestic stuff? Tend to the business, will you? Jab that till it hurts! Five hundred times without stopping. Do you hear me? 500 times.",
+      "speaker": "Burgess Meredith",
+      "character": "Mickey Goldmill",
+      "source": "Rocky II",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 817,
+      "quote": "There's one thing I want you to do for me. -What? -Come here. -What? -Win.",
+      "speaker": "Talia Shire",
+      "character": "Adrian Balboa",
+      "source": "Rocky II",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 818,
+      "quote": "You're the man. You're number one. The champ. The best of all time. The girls love you. Men, old people love you. Young people love you. You're the best. You're the man.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 819,
+      "quote": "You're a greasy, fast, 200-pound Italian tank. Go through him! Run over him! -I'm a tank. I'm gonna get him.",
+      "speaker": "Sylvester Stallone",
+      "character": "Rocky Balboa; Burgess Meredith as Mickey Goldmill",
+      "source": "Rocky II",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 820,
+      "quote": "So what do you all say? Are we going to be bees? Or just Museum of Natural History keychains?",
+      "speaker": "Jerry Seinfeld",
+      "character": "Barry B. Benson",
+      "source": "Bee Movie",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 821,
+      "quote": "Dear child, be brave no matter how hopeless it all seems.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 822,
+      "quote": "Don't tell me you can't do it because I know you can. And don't tell me you won't do it, because I've got to have it.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 823,
+      "quote": "I'm lucky, I have my elbows. Some of the boys don't.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 824,
+      "quote": "Look, pally, don't do it for us. Do it for the kids. -But I... -Look, son. To these kids, the only difference between a broken heart and a smile is you!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 825,
+      "quote": "We're not going to take this anymore! Then we'll figure out what to do about the depression, and the inflation, and the oil crisis, but first get up out of your chairs, open the window, stick your head out and yell and say it!",
+      "speaker": "Peter Finch",
+      "character": "Howard Beale",
+      "source": "Network (1976)",
+      "year": 1976,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 826,
+      "quote": "Oh, go get 'em. Sic 'em time. Chew 'em up and don't spit 'em out. Swallow 'em.",
+      "speaker": "Humphrey Bogart",
+      "character": "Fred C. Dobbs",
+      "source": "The Treasure of the Sierra Madre",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 827,
+      "quote": "Don't you ever say never to me.",
+      "speaker": "Kathy Bates",
+      "character": "Evelyn Couch",
+      "source": "Fried Green Tomatoes (1991)",
+      "year": 1991,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 828,
+      "quote": "You are an incredibly sensitive man who inspires joy-joy feelings in all those around you.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 829,
+      "quote": "But you see me? You see me? I'm different 'cause I know exactly where I'm going.",
+      "speaker": "Malik Yoba",
+      "character": "Yul Brenner",
+      "source": "Cool Runnings",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 830,
+      "quote": "I didn't come all this way to get my butt whipped. As a matter of fact, now that I'm here, I thought I'd do a little whipping of my own.",
+      "speaker": "John Candy",
+      "character": "Irv Blitzer",
+      "source": "Cool Runnings",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 831,
+      "quote": "I'll tell you something. You had all better figure out how to stay loose out there. That's something I can't help you with.",
+      "speaker": "John Candy",
+      "character": "Irv Blitzer",
+      "source": "Cool Runnings",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 832,
+      "quote": "Ay, oh, ay, _s get shot every day, B. You be a'ight, _. You're tough, right?",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 833,
+      "quote": "Hey. Don't ever let somebody tell you you can't do something. Not even me. All right?",
+      "speaker": "Will Smith",
+      "character": "Chris Gardner",
+      "source": "The Pursuit of Happyness",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 834,
+      "quote": "I must not fear. Fear is the mind killer. And fear is the little death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 835,
+      "quote": "Brothers, what we do in life echoes in eternity.",
+      "speaker": "Russell Crowe",
+      "character": "Maximus Decimus Meridius",
+      "source": "Gladiator (2000)",
+      "year": 2000,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 836,
+      "quote": "We all go down unless we stay together. Ain't no one man above the crew. You know that _.",
+      "speaker": "Tupac Shakur",
+      "character": "Bishop",
+      "source": "Juice (1992)",
+      "year": 1992,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 837,
+      "quote": "Life's a garden, dig it? You make it work for you. You never give up, man. That's my philosophy.",
+      "speaker": "David Spade",
+      "character": "Joe Dirt",
+      "source": "Joe Dirt (2001)",
+      "year": 2001,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 838,
+      "quote": "Nothing worthwhile is easy. We know that.",
+      "speaker": "Chevy Chase",
+      "character": "Clark W. Griswold",
+      "source": "Vacation (1983)",
+      "year": 1983,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 839,
+      "quote": "Oh, dear. It would seem I'm off to a poor start. Well, better late than never.",
+      "speaker": "Paul Newman",
+      "character": "Doc Hudson",
+      "source": "Cars",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 840,
+      "quote": "Do the words 'give up' mean anything to you? -Not a thing.",
+      "speaker": "John Candy",
+      "character": "Irv Blitzer",
+      "source": "Cool Runnings",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 841,
+      "quote": "All he has to do is know what he wants and work hard for it. And if he wants it bad enough, he'll get it.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 842,
+      "quote": "Now, a lot of coaches would be giving you one of those 'Win one for the Gipper' speeches. I'm not good at that stuff. Instead, I thought I'd lead you in a psalm of inspiration. Let's bow our heads.",
+      "speaker": "John Candy",
+      "character": "Irv Blitzer",
+      "source": "Cool Runnings",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 843,
+      "quote": "I've worked all my life for this. You can't talk me into giving up, no matter what you say.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 844,
+      "quote": "It's not hard to knock 'em down, it's getting 'em to stay down that's the trick.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 845,
+      "quote": "And no matter what clouds are true, eventually the sun will come out and you cannot stop the sun from shining.",
+      "speaker": "Nas",
+      "character": "Sincere",
+      "source": "Belly (1998)",
+      "year": 1998,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 846,
+      "quote": "Now, it's a very difficult job, and the only way to get through it is, we all work together as a team. And that means you do everything I say.",
+      "speaker": "Michael Caine",
+      "character": "Charlie Croker",
+      "source": "The Italian Job (1969)",
+      "year": 1969,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 847,
+      "quote": "You only live once. You got to give it your best shot.",
+      "speaker": "Clint Eastwood",
+      "character": "Bronco Billy",
+      "source": "Bronco Billy",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 848,
+      "quote": "I am not gonna sit on my _ as the events that affect me unfold to determine the course of my life. I'm gonna take a stand.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 849,
+      "quote": "Hell, it doesn't matter if they come in first or 50th. Those guys have earned the right to represent their country.",
+      "speaker": "John Candy",
+      "character": "Irv Blitzer",
+      "source": "Cool Runnings",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 850,
+      "quote": "We're alive. Infected, yes. But alive.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 851,
+      "quote": "You have to think of the main objective.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 852,
+      "quote": "Now, I'm not gonna sit here and blow sunshine up your _, lieutenant.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 853,
+      "quote": "Are men afraid of anything? -Heck, no! -And why? -Because we're invincible!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 854,
+      "quote": "There you go. You can do it. Stick with me. You can do it.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 855,
+      "quote": "You'll see! We'll rise above this piddling peccadillo! We're going to be happy again! You got that? Happy. Capital H-A-P-P-I...",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 856,
+      "quote": "Here's some things we can focus on: One, we tried hard. And two, we're still dear friends.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 857,
+      "quote": "God willing, we will prevail, in peace and freedom from fear, and in true health through the purity and essence of our natural... fluids.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 858,
+      "quote": "What? Over? Did you say, over? Nothing is over until we decide it is!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 859,
+      "quote": "And it ain't over now because when the going gets tough, the tough get going!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 860,
+      "quote": "Use that shovel like it was your spoon. Shag it, man.",
+      "speaker": "George Kennedy",
+      "character": "Dragline",
+      "source": "Cool Hand Luke",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 861,
+      "quote": "Just calm down, son. Hang in there. We'll get you out.",
+      "speaker": "Dale Dye",
+      "character": "Captain Harris",
+      "source": "Platoon",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 862,
+      "quote": "What does that mean? We're gonna call off the game because we don't like the weather?",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 863,
+      "quote": "Don't ever say that. Just don't ever low-rate yourself.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 864,
+      "quote": "Do not show the slightest pity or mercy! Never stop! Go! Go! Show no mercy!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 865,
+      "quote": "Well, you gotta live, no matter what happens. -Yeah, that's it.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 866,
+      "quote": "Come on, Squints! You can do it! Pull through, bud!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 867,
+      "quote": "No place is too far if it's what we want.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 868,
+      "quote": "And now we've picked up the trail again, and nothing can stop us! Not even the snows of winter nor the peaks of the highest mountains.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 869,
+      "quote": "Think big, think positive. Never show any sign of weakness. Always go for the throat.",
+      "speaker": "Dan Aykroyd",
+      "character": "Louis Winthorpe",
+      "source": "Trading places (1983)",
+      "year": 1983,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 870,
+      "quote": "Hey, don't be silly. What's a Warrior to do after he's lost the big one? Win a few of the little ones.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 871,
+      "quote": "We can do it! This will be easy! This is working!",
+      "speaker": "Amy Poehler",
+      "character": "Joy",
+      "source": "Inside Out",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 872,
+      "quote": "I did not come this far to stop now.",
+      "speaker": "Jean-Claude Van Damme",
+      "character": "Frank Dux",
+      "source": "Bloodsport",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 873,
+      "quote": "Don't start to doubt yourself. Be confident.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 874,
+      "quote": "Oh, yeah. We don't take no for an answer. We don't take no for an answer. We don't take no for an answer.",
+      "speaker": "Chris Farley",
+      "character": "Tommy Callahan",
+      "source": "Tommy Boy (1995)",
+      "year": 1995,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 875,
+      "quote": "Problems. Life is all problems. They work out.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 876,
+      "quote": "That is not true, you are not a screw-up! You make so many people laugh.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 877,
+      "quote": "Come on, now. Don't you get to worrying. I'll get you out of this somehow. I've been in tougher spots than this before now.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 878,
+      "quote": "If you're tangled up, just tango on.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 879,
+      "quote": "You mean it's like, if at first you don't succeed, try, try again. -Yes. -I thought so.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 880,
+      "quote": "I can do anything I want. And so can you.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 881,
+      "quote": "We have gone through with it. The tough part is all behind us. We just have to hold on now and not go soft inside stick close together the way we started out.",
+      "speaker": "Barbara Stanwyck",
+      "character": "Phyllis Dietrichson",
+      "source": "Double Indemnity",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 882,
+      "quote": "Don't talk nonsense. Don't be depressed. The day is always darkest... -I know, just before the cyclone.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 883,
+      "quote": "We are set on our course. No force can stop us now.",
+      "speaker": "Arnold Schwarzenegger",
+      "character": "Harry Tasker",
+      "source": "True Lies",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 884,
+      "quote": "Let's try a little harder, shall we?",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 885,
+      "quote": "Now, don't be silly. Even I can manage to support myself, and I'm a single girl. It's much easier for a man. There's no reason for you to give up.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 886,
+      "quote": "You mustn't get discouraged, those wounds are nothing. If you're really determined, you can recover.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 887,
+      "quote": "You mustn't despair. Try that one more time. Concentrate now.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 888,
+      "quote": "Tragedy is the test of courage.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 889,
+      "quote": "You should take things easy. When you're better, you'll be able to sort everything out. Here. Drink this.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 890,
+      "quote": "No, I'm not a failure. I'm a success. And so are you, if you earn your own living and pay your own bills and look the world in the eye.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 891,
+      "quote": "When things go wrong, and dark clouds fill your sky, let the dark clouds burst, laugh and you'll find if you cry it's raining sunshine.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 892,
+      "quote": "Cheer up, Red. It'll be all right. You've been got out of jams before. -Been got out of them, did you say? -Certainly. Don't worry. You always have been.",
+      "speaker": "Cary Grant",
+      "character": "C.K. Dexter Haven",
+      "source": "The Philadelphia Story (1940)",
+      "year": 1940,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 893,
+      "quote": "If you keep on doing different things, you're going to win, just as much as anyone else. Just keep trying. Don't give up.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 894,
+      "quote": "Come on. Come on! The body knows how to move if you just let it. -What? -It's easy for him to say.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 895,
+      "quote": "I can't do it. -Yes, you can. Adjust your body, it'll respond.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 896,
+      "quote": "It's one big play. Our only chance to grab stakes forever.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 897,
+      "quote": "Jump on that ball carrier like a starving man on a Christmas ham.",
+      "speaker": "Will Patton",
+      "character": "Coach Bill Yoast",
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 898,
+      "quote": "You're gonna be a greasy, fast, Italian monster! You're gonna eat lightning! You're gonna crap thunder! We'll have to put you in a cage, kid.",
+      "speaker": "Burgess Meredith",
+      "character": "Mickey Goldmill",
+      "source": "Rocky II",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 899,
+      "quote": "You can't quit now, son! You come from a long line of fighting hawks! There was a hawk at Bunker Hill, with John Paul Jones! With Washington at Yorktown! And at Gettysburg!",
+      "speaker": "Mel Blanc",
+      "character": "Foghorn Leghorn",
+      "source": "Foghorn Leghorn Shorts",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 900,
+      "quote": "Nobody's perfect. Have a happy day.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 901,
+      "quote": "Come here. Come on. Walk this way. March! Heel! Giddy-up! Um... Forward! -Forward!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 902,
+      "quote": "You should do it. You should do it, Rollergirl, because you know what? If you wanted to, you could do anything.",
+      "speaker": "Julianne Moore",
+      "character": "Amber Waves",
+      "source": "Boogie Nights (1997)",
+      "year": 1997,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 903,
+      "quote": "You got a negative attitude. That's what's stopping you. You gotta get your act together. I'll help you.",
+      "speaker": "Christian Bale",
+      "character": "Patrick Bateman",
+      "source": "American Psycho",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 904,
+      "quote": "No way, mister. You're going to the top of this mountain, broken legs and all.",
+      "speaker": "Jim Carrey",
+      "character": "Truman Burbank",
+      "source": "The Truman Show",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 905,
+      "quote": "What we need is fighting spirit. The will to win.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 906,
+      "quote": "Take it easy. It's going to be okay. We are going to be okizay.",
+      "speaker": "Chris Rock",
+      "character": "Marty The Zebra",
+      "source": "Madagascar",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 907,
+      "quote": "Accept your fears. Confront your demons. Find your destiny in the maelstrom!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 908,
+      "quote": "You know what? I say we concentrate on work, buddy. That's what I do every time my life turns to dog _. I concentrate on work, and that gets me by. All right, buddy? It's gonna be great.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 909,
+      "quote": "I guess the sun's always shining over the next valley. Maybe that's where we'll find our pot of gold.",
+      "speaker": "Clint Eastwood",
+      "character": "Bronco Billy",
+      "source": "Bronco Billy",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 910,
+      "quote": "Come on, it's a beautiful day. Look, the sun is shining through the hole in your underwear.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 911,
+      "quote": "I love getting up in the morning! I clap my hands and say, 'This is gonna be a great day!'",
+      "speaker": "Jared Jussim",
+      "character": "Dicky Fox",
+      "source": "Jerry Maguire",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 912,
+      "quote": "Ain't it about time to rest? -No, it ain't. We got to push until he drops.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 913,
+      "quote": "And y'all think we done won something? Man, we ain't won nothing, y'all... Nothing.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 914,
+      "quote": "But let me tell you something about a small job. If you do it really well, it makes a big difference. More than we realized. To us, to everyone.",
+      "speaker": "Jerry Seinfeld",
+      "character": "Barry B. Benson",
+      "source": "Bee Movie",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 915,
+      "quote": "Crazy. I mean, like, so many positive waves, maybe we can't lose. You're on.",
+      "speaker": "Donald Sutherland",
+      "character": "Tank Commander Oddball",
+      "source": "Kelly's Heroes",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 916,
+      "quote": "Come on. All right, everybody! That's what I'm talking about, guys. We've made a great effort so far. Let's just keep it up!",
+      "speaker": "Luke Wilson",
+      "character": "Mitch",
+      "source": "Old School",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 917,
+      "quote": "You mentioned my uniform. These are my work clothes. They represent what I'm willing to do, how hard I'm willing to work for what I believe in.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 918,
+      "quote": "In our struggle for freedom we've hit the canvas many a time, but we always bounce back because we're the people and we're tough.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 919,
+      "quote": "We're not just going out there to win. We're going out there for glory.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 920,
+      "quote": "Now, get out there and make something happen! Sacrifice your bodies. Go, go, go! Thank you.",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 921,
+      "quote": "Tonight we must remain steadfast. We must remain determined. But most of all, we must remain united.",
+      "speaker": "John Hurt",
+      "character": "Adam Sutler",
+      "source": "V for Vendetta",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "streaming_checked": true
+    },
+    {
+      "id": 922,
+      "quote": "You _ed up, all right? So what? So everybody does it. Get on with your life, would ya?",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 923,
+      "quote": "This is gonna work. It's a movie. I'm a good guy. This has got to work!",
+      "speaker": "",
+      "character": "",
+      "source": "",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [],
+      "streaming_checked": false
+    },
+    {
+      "id": 924,
+      "quote": "You make sure they remember forever the night they played the Titans.",
+      "speaker": "Will Patton",
+      "character": "Coach Bill Yoast",
+      "source": "Remember the Titans",
+      "year": null,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
       "streaming_checked": true
     }
   ]
