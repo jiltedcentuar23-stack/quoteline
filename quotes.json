@@ -6471,6 +6471,1011 @@
       ],
       "id": 433,
       "streaming_checked": true
+    },
+    {
+      "quote": "Look at you, you have a baby... In a bar.",
+      "speaker": "Joey Lawrence",
+      "character": "Hank Thompson",
+      "source": "Sweet Home Alabama",
+      "year": 1995,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 434,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Can I refill your eggnog for you? Get you something to eat? Drive you out to the middle of nowhere, leave you for dead?",
+      "speaker": "Chevy Chase",
+      "character": "Clark Griswold",
+      "source": "National Lampoon's Christmas Vacation",
+      "year": 1989,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 435,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I find it amusing. Men are supposed to be made of steel or something.",
+      "speaker": "Dolly Parton",
+      "character": "Mississippi",
+      "source": "Steel Magnolias",
+      "year": 1989,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 436,
+      "streaming_checked": true
+    },
+    {
+      "quote": "As if!",
+      "speaker": "Alicia Silverstone",
+      "character": "Cher Horowitz",
+      "source": "Clueless",
+      "year": 1995,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 437,
+      "streaming_checked": true
+    },
+    {
+      "quote": "When I buy a new book, I always read the last page first. That way, in case I die before I finish, I know how it ends.",
+      "speaker": "Meg Ryan",
+      "character": "Sally Albright",
+      "source": "When Harry Met Sally",
+      "year": 1989,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 438,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You talking to me?",
+      "speaker": "Robert De Niro",
+      "character": "Travis Bickle",
+      "source": "Taxi Driver",
+      "year": 1976,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 439,
+      "streaming_checked": true
+    },
+    {
+      "quote": "What do tigers dream of when they take their little tiger snooze? Do they dream of mauling zebras? Or Halle Berry in her 'Catwoman' suit?",
+      "speaker": "Zach Galifianakis",
+      "character": "Alan",
+      "source": "The Hangover",
+      "year": 2009,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 440,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You sit on a throne of lies.",
+      "speaker": "Will Ferrell",
+      "character": "Buddy the Elf",
+      "source": "Elf",
+      "year": 2003,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 441,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Exercise gives you endorphins. Endorphins make you happy. Happy people just don't shoot their husbands, they just don't.",
+      "speaker": "Reese Witherspoon",
+      "character": "Elle Woods",
+      "source": "Legally Blonde",
+      "year": 2001,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 442,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Who's the only one here who knows secret Ninja moves from the government?",
+      "speaker": "Jon Heder",
+      "character": "Napoleon Dynamite",
+      "source": "Napoleon Dynamite",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 443,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Your mother was a hamster and your father smelt of elderberries.",
+      "speaker": "Terry Jones",
+      "character": "King Arthur",
+      "source": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 444,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I want to apologize. I'm not even confident on which end that came out of.",
+      "speaker": "Kristen Wiig",
+      "character": "Hannah",
+      "source": "Bridesmaids",
+      "year": 2011,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 445,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Last night you were unhinged. You were like some desperate, howling demon. You frightened me. Do it again.",
+      "speaker": "Ralph Fiennes",
+      "character": "Gomez Addams",
+      "source": "The Addams Family",
+      "year": 1991,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 446,
+      "streaming_checked": true
+    },
+    {
+      "quote": "If you can dodge a wrench, you can dodge a ball.",
+      "speaker": "Will Ferrell",
+      "character": "Pete LaCrosse",
+      "source": "Dodgeball",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 447,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I'm just one stomach flu away from my goal weight.",
+      "speaker": "Anne Hathaway",
+      "character": "Emily Charlton",
+      "source": "The Devil Wears Prada",
+      "year": 2006,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 448,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I should've quit when I was behind.",
+      "speaker": "Sandra Bullock",
+      "character": "Sugar Bowl",
+      "source": "Divine Secrets of the Ya-Ya Sisterhood",
+      "year": 2002,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 449,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Honey, just cause I talk slow doesn't mean I'm stupid.",
+      "speaker": "Rebecca De Mornay",
+      "character": "Sara",
+      "source": "Sweet Home Alabama",
+      "year": 1995,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 450,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Beginnings are scary, endings are usually sad, but it's the middle that counts the most. Try to remember that when you find yourself at a new beginning. Just give hope a chance to float up.",
+      "speaker": "Sandra Bullock",
+      "character": "Glory",
+      "source": "Hope Floats",
+      "year": 1998,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 451,
+      "streaming_checked": true
+    },
+    {
+      "quote": "All I'm saying is, kindness don't have no boundaries.",
+      "speaker": "Viola Davis",
+      "character": "Aibileen Clark",
+      "source": "The Help",
+      "year": 2011,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 452,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Our lives are not fully lived if we're not willing to die for those we love, for what we believe.",
+      "speaker": "David Oyelowo",
+      "character": "Martin Luther King Jr.",
+      "source": "Selma",
+      "year": 2014,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 453,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.",
+      "speaker": "Gregory Peck",
+      "character": "Atticus Finch",
+      "source": "To Kill a Mockingbird",
+      "year": 1962,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 454,
+      "streaming_checked": true
+    },
+    {
+      "quote": "For the good old American life: For the money, for the glory, and for the fun... mostly for the money.",
+      "speaker": "Burt Reynolds",
+      "character": "Bo Darwen",
+      "source": "Smokey and the Bandit",
+      "year": 1977,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 455,
+      "streaming_checked": true
+    },
+    {
+      "quote": "It's less trouble to feel sorry for her than it is to teach her anything better.",
+      "speaker": "Anne Bancroft",
+      "character": "Anne Sullivan",
+      "source": "The Miracle Worker",
+      "year": 1962,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 456,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I wouldn't expect you to understand this, but it's a great comfort for a girl to know she could not possibly sink any lower.",
+      "speaker": "Gene Tierney",
+      "character": "Cynthia",
+      "source": "Cape Fear",
+      "year": 1962,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 457,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Don't give me no rules. All I got are rules.",
+      "speaker": "Joaquin Phoenix",
+      "character": "Johnny Cash",
+      "source": "Walk the Line",
+      "year": 2005,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 458,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Life and death are only temporary but freedom goes on forever.",
+      "speaker": "Hank Azaria",
+      "character": "Muley",
+      "source": "Crazy in Alabama",
+      "year": 1999,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 459,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I like them French-fried potaters.",
+      "speaker": "Billy Bob Thornton",
+      "character": "Karl Childs",
+      "source": "Sling Blade",
+      "year": 1996,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 460,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I'm gonna come at you like a spider monkey.",
+      "speaker": "John C. Reilly",
+      "character": "Cal Naughton Jr.",
+      "source": "Talladega Nights",
+      "year": 2000,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 461,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I've got the guts to die. What I want to know is, have you got the guts to live?",
+      "speaker": "Brock Peters",
+      "character": "Big Daddy",
+      "source": "Cat on a Hot Tin Roof",
+      "year": 1958,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 462,
+      "streaming_checked": true
+    },
+    {
+      "quote": "They say when you meet the love of your life, time stops, and that's true. What they don't tell you is that when it starts again, it moves extra fast to catch up.",
+      "speaker": "Ewan McGregor",
+      "character": "Edward Bloom",
+      "source": "Big Fish",
+      "year": 2003,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 463,
+      "streaming_checked": true
+    },
+    {
+      "quote": "It's a fool that looks for logic in the chambers of the human heart.",
+      "speaker": "John Turturro",
+      "character": "Cpant Delmar",
+      "source": "O Brother, Where Art Thou?",
+      "year": 2000,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 464,
+      "streaming_checked": true
+    },
+    {
+      "quote": "A heart can be broken, but it keeps beating just the same.",
+      "speaker": "Frances McDormand",
+      "character": "Ruth",
+      "source": "Fried Green Tomatoes",
+      "year": 1991,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 465,
+      "streaming_checked": true
+    },
+    {
+      "quote": "They say when you meet the love of your life, time stops.",
+      "speaker": "Ewan McGregor",
+      "character": "Edward Bloom",
+      "source": "Big Fish",
+      "year": 2003,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 466,
+      "streaming_checked": true
+    },
+    {
+      "quote": "We fell in love, despite our differences, and something rare and beautiful was created.",
+      "speaker": "Ryan Gosling",
+      "character": "Noah Calhoun",
+      "source": "The Notebook",
+      "year": 2004,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 467,
+      "streaming_checked": true
+    },
+    {
+      "quote": "The truth is I gave my heart away a long time ago, my whole heart, and I never really got it back.",
+      "speaker": "Sandra Bullock",
+      "character": "Melanie Samuels",
+      "source": "Sweet Home Alabama",
+      "year": 1995,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 468,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I would rather have thirty minutes of wonderful than a lifetime of nothing special.",
+      "speaker": "Dolly Parton",
+      "character": "Truvy",
+      "source": "Steel Magnolias",
+      "year": 1989,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 469,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I never look back, darling! It distracts from the now.",
+      "speaker": "Holly Hunter",
+      "character": "Elastigirl",
+      "source": "The Incredibles",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 470,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You have no idea what I'm capable of.",
+      "speaker": "Mark Whittaker",
+      "character": "Optimus Prime",
+      "source": "Transformers",
+      "year": 2007,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 471,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You is kind. You is smart. You is important.",
+      "speaker": "Viola Davis",
+      "character": "Aibileen Clark",
+      "source": "The Help",
+      "year": 2011,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 472,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You're a wizard, Harry.",
+      "speaker": "Richard Harris",
+      "character": "Albus Dumbledore",
+      "source": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 473,
+      "streaming_checked": true
+    },
+    {
+      "quote": "If you're a bird, I'm a bird.",
+      "speaker": "Rachel McAdams",
+      "character": "Allie",
+      "source": "The Notebook",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 474,
+      "streaming_checked": true
+    },
+    {
+      "quote": "And sometimes you love a person just because they feel like home.",
+      "speaker": "Renée Zellweger",
+      "character": "Bridget Jones",
+      "source": "Bridget Jones's Diary",
+      "year": 2001,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 475,
+      "streaming_checked": true
+    },
+    {
+      "quote": "With great power comes great responsibility.",
+      "speaker": "Cliff Robertson",
+      "character": "Uncle Ben",
+      "source": "Spider-Man",
+      "year": 2002,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 476,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You can't change who people are without destroying who they were.",
+      "speaker": "Eric Bana",
+      "character": "Evan Treborn",
+      "source": "The Butterfly Effect",
+      "year": 2004,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 477,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Happiness is only real when shared.",
+      "speaker": "Emile Hirsch",
+      "character": "Christopher McCandless",
+      "source": "Into the Wild",
+      "year": 2007,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 478,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Adventure is out there.",
+      "speaker": "Edward Asner",
+      "character": "Carl Fredricksen",
+      "source": "Up",
+      "year": 2009,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 479,
+      "streaming_checked": true
+    },
+    {
+      "quote": "The greatest thing you will ever learn is just to love and be loved in return.",
+      "speaker": "Nicole Kidman",
+      "character": "Satine",
+      "source": "Moulin Rouge!",
+      "year": 2001,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 480,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Our love is like the wind... I can't see it, but I sure can feel it.",
+      "speaker": "Patrick Swayze",
+      "character": "Landon Carter",
+      "source": "A Walk to Remember",
+      "year": 2002,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 481,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Whatever our souls are made of, his and mine are the same.",
+      "speaker": "Catherine Zeta-Jones",
+      "character": "Cathy Earnshaw",
+      "source": "Wuthering Heights",
+      "year": 1939,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 482,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I would rather share one lifetime with you than face all the ages of this world alone.",
+      "speaker": "Ian McKellen",
+      "character": "Gandalf",
+      "source": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 483,
+      "streaming_checked": true
+    },
+    {
+      "quote": "It was a million tiny little things that, when you added them all up, they meant we were supposed to be together ... and I knew it. I knew it the very first time I touched her. It was like coming home. .. only to no home I'd ever known ... I was just taking her hand to help her out of a car and I knew. It was like ... magic.",
+      "speaker": "Tom Hanks",
+      "character": "Sam Baldwin",
+      "source": "Sleepless in Seattle",
+      "year": 1993,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 484,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Listen to me, mister. You're my knight in shining armor. Don't you forget it.",
+      "speaker": "Katharine Hepburn",
+      "character": "Ethel Thayer",
+      "source": "On Golden Pond",
+      "year": 1981,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 485,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I think I'd miss you even if we'd never met.",
+      "speaker": "Amanda Peet",
+      "character": "June",
+      "source": "The Wedding Date",
+      "year": 2005,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 486,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I knew I'd never be able to remember what Nina wore that day. But I also knew I'd never forget the way she looked.",
+      "speaker": "Steve Martin",
+      "character": "George Banks",
+      "source": "Father of the Bride",
+      "year": 1991,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 487,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I wanted it to be you, I wanted it to be you so badly.",
+      "speaker": "Tom Hanks",
+      "character": "Joe Fox",
+      "source": "You've Got Mail",
+      "year": 1998,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 488,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I can't see anything I don't like about you.",
+      "speaker": "Kate Winslet",
+      "character": "Clementine Kruczynski",
+      "source": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 489,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I wish I had done everything on earth with you.",
+      "speaker": "Carey Mulligan",
+      "character": "Daisy Buchanan",
+      "source": "The Great Gatsby",
+      "year": 2013,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 490,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You want the moon? Just say the word, and I'll throw a lasso around it and pull it down.",
+      "speaker": "James Stewart",
+      "character": "George Bailey",
+      "source": "It's a Wonderful Life",
+      "year": 1946,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 491,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I will return. I will find you. Love you. Marry you. And live without shame.",
+      "speaker": "Keira Knightley",
+      "character": "Cecilia Tallis",
+      "source": "Atonement",
+      "year": 2007,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 492,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I love you without knowing how, why, or even from where.",
+      "speaker": "Robin Williams",
+      "character": "Hunter \"Patch\" Adams",
+      "source": "Patch Adams",
+      "year": 1998,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 493,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I hate the way you talk to me, and the way you cut your hair. I hate the way you drive my car. I hate it when you stare. I hate your big dumb combat boots, and the way you read my mind. I hate you so much it makes me sick; it even makes me rhyme. I hate it, I hate the way you're always right. I hate it when you lie. I hate it when you make me laugh, even worse when you make me cry. I hate it when you're not around, and the fact that you didn't call. But mostly I hate the way I don't hate you. Not even close, not even a little bit, not even at all.",
+      "speaker": "Julia Stiles",
+      "character": "Kat Stratford",
+      "source": "10 Things I Hate About You",
+      "year": 1999,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 494,
+      "streaming_checked": true
+    },
+    {
+      "quote": "When you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.",
+      "speaker": "Billy Crystal",
+      "character": "Harry Burns",
+      "source": "When Harry Met Sally",
+      "year": 1989,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 495,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I'm also just a girl, standing in front of a boy, asking him to love her.",
+      "speaker": "Julia Roberts",
+      "character": "William Thacker",
+      "source": "Notting Hill",
+      "year": 1999,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 496,
+      "streaming_checked": true
+    },
+    {
+      "quote": "That'll do, pig. That'll do.",
+      "speaker": "Chris Sanders",
+      "character": "Farmer Hogget",
+      "source": "Babe",
+      "year": 1995,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 497,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You're killin' me, Smalls.",
+      "speaker": "Chris Penn",
+      "character": "Woody",
+      "source": "The Sandlot",
+      "year": 1993,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 498,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Talk to me, Goose.",
+      "speaker": "Tom Cruise",
+      "character": "Maverick",
+      "source": "Top Gun",
+      "year": 1986,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 499,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I'm king of the world!",
+      "speaker": "Leonardo DiCaprio",
+      "character": "Jack Dawson",
+      "source": "Titanic",
+      "year": 1997,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 500,
+      "streaming_checked": true
     }
   ]
 }
