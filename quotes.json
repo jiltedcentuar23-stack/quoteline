@@ -3,7 +3,7 @@
     "name": "Quoteline",
     "tagline": "Fresh lines, daily.",
     "total_daily": 365,
-    "updated": "2026-09-22"
+    "updated": "2026-09-30"
   },
   "quotes": [
     {
@@ -7475,6 +7475,1521 @@
         "Paramount+"
       ],
       "id": 500,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I will have a Polynesian Pearl Diver. Do not spare the rum.",
+      "speaker": "Leonardo DiCaprio",
+      "character": "Calvin Candie",
+      "source": "Django Unchained",
+      "year": 2012,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 501,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You still don't understand what you're dealing with, do you? Perfect organism. Its structural perfection is matched only by its hostility.",
+      "speaker": "Ian Holm",
+      "character": "Ash",
+      "source": "Alien",
+      "year": 1979,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 502,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You see, it's the principal. There's principalities in the whole thing.",
+      "speaker": "Chris Rock",
+      "character": "Big Worm",
+      "source": "Friday",
+      "year": 1995,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 503,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Life passes most people by while they're making grand plans for it.",
+      "speaker": "Johnny Depp",
+      "character": "George Jung",
+      "source": "Blow",
+      "year": 2001,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 504,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Sometimes it's interesting to see just how bad bad writing can be. This promised to go the limit.",
+      "speaker": "William Holden",
+      "character": "Joe Gillis",
+      "source": "Sunset Blvd.",
+      "year": 1950,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 505,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I used to produce movies. In the 80s. Kind of like action films. Sexy stuff. One critic called them European. I thought they were shit.",
+      "speaker": "Bryan Singer",
+      "character": "Bernie Rose",
+      "source": "Drive",
+      "year": 2011,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 506,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Show me something real! I need it now. Not later. Now! Show me and I'll believe in you until the day I die. I swear. I'm calling on ye'. I said I'm calling on ye! Fuck it. I'll do it myself.",
+      "speaker": "Liam Neeson",
+      "character": "Ottway",
+      "source": "The Grey",
+      "year": 2011,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 507,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I like it here. You get to do what you want. Nobody fucks with you. The only worry you got is dying. And if that happens, you won't know about it anyway.",
+      "speaker": "Willem Dafoe",
+      "character": "Bunny",
+      "source": "Platoon",
+      "year": 1986,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 508,
+      "streaming_checked": true
+    },
+    {
+      "quote": "It was my bad. I was never a very good practical joker.",
+      "speaker": "Bill Murray",
+      "character": "Columbus",
+      "source": "Zombieland",
+      "year": 2009,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 509,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Intelligence. Nothing has caused the human race so much trouble as intelligence.",
+      "speaker": "Grace Kelly",
+      "character": "Stella",
+      "source": "Rear Window",
+      "year": 1954,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 510,
+      "streaming_checked": true
+    },
+    {
+      "quote": "What a day. Felt like I couldn't sell ice water in the Sahara.",
+      "speaker": "John Turturro",
+      "character": "Charlie",
+      "source": "Barton Fink",
+      "year": 1991,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 511,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Well, um, I'll have a Coke, then.",
+      "speaker": "Norman Reedus",
+      "character": "Rocco",
+      "source": "Boondock Saints",
+      "year": 1999,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 512,
+      "streaming_checked": true
+    },
+    {
+      "quote": "People do it every day, they talk to themselves... they see themselves as they'd like to be, they don't have the courage you have, to just run with it.",
+      "speaker": "Edward Norton",
+      "character": "Tyler Durden",
+      "source": "Fight Club",
+      "year": 1999,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 513,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Yeah, to you it's Thanksgiving; to me it's Thursday.",
+      "speaker": "Sylvester Stallone",
+      "character": "Rocky Balboa",
+      "source": "Rocky",
+      "year": 1976,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 514,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Public opinion has a way of changing.",
+      "speaker": "Michael Bates",
+      "character": "Minister",
+      "source": "A Clockwork Orange",
+      "year": 1971,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 515,
+      "streaming_checked": true
+    },
+    {
+      "quote": "The Uncertainty Principle. It proves we can't ever really know what's going on. So it shouldn't bother you. Not being able to figure anything out. Although you will be responsible for this on the midterm.",
+      "speaker": "Michael Stuhlbarg",
+      "character": "Larry Gopnik",
+      "source": "A Serious Man",
+      "year": 2009,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 516,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I picked you for the job, not because I think you're so darn smart, but because I thought you were a shade less dumb than the rest of the outfit.",
+      "speaker": "Edward G. Robinson",
+      "character": "Barton Keyes",
+      "source": "Double Indemnity",
+      "year": 1944,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 517,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You could be brilliant, but you're a coward.",
+      "speaker": "Winona Ryder",
+      "character": "Thomasina",
+      "source": "Black Swan",
+      "year": 2010,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 518,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Wow what a tremendous looking trophy!",
+      "speaker": "Chris Farley",
+      "character": "Hal L.",
+      "source": "Happy Gilmore",
+      "year": 1996,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 519,
+      "streaming_checked": true
+    },
+    {
+      "quote": "It's too bad she won't live! But then again, who does?",
+      "speaker": "Harrison Ford",
+      "character": "Gaff",
+      "source": "Blade Runner",
+      "year": 1982,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 520,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Carnies. Circus folk. Nomads, you know. Smell like cabbage. Small hands.",
+      "speaker": "Mike Myers",
+      "character": "Austin Powers",
+      "source": "Austin Powers: International Man of Mystery",
+      "year": 1997,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 521,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Every day above ground is a good day.",
+      "speaker": "Robert Loggia",
+      "character": "Bernstein",
+      "source": "Scarface",
+      "year": 1983,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 522,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Don't look nobody in the eye, but don't look away either. They're gonna be scared of you, believe me, so don't worry about nothing.",
+      "speaker": "John Cazale",
+      "character": "Clemenza",
+      "source": "The Godfather",
+      "year": 1972,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 523,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I didn't ask for a shrink. That must've been somebody else. Also that pudding isn't mine. Also, I'm wearing this suit today because I had a very important meeting this morning and I don't have a crying problem.",
+      "speaker": "Adam Sandler",
+      "character": "Barry Egan",
+      "source": "Punch-Drunk Love",
+      "year": 2002,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 524,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Just because he speaks a little guilty, that don't make him innocent, you know.",
+      "speaker": "Orson Welles",
+      "character": "Hank Quinlan",
+      "source": "Touch of Evil",
+      "year": 1958,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 525,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Adaptation is a profound process. Means you figure out how to thrive in the world.",
+      "speaker": "Nicholas Cage",
+      "character": "John Laroque",
+      "source": "Adaptation",
+      "year": 2002,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 526,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Brilliant man. The only thing I've got against him is he's not a socialist.",
+      "speaker": "Zbigniew Zamachowski",
+      "character": "Yehuda",
+      "source": "The Pianist",
+      "year": 2002,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 527,
+      "streaming_checked": true
+    },
+    {
+      "quote": "What is an ocean but a multitude of drops?",
+      "speaker": "Tom Hanks",
+      "character": "Adam Ewing",
+      "source": "Cloud Atlas",
+      "year": 2012,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 528,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Enrico Fermi would roll over in his motherfucking grave if he heard that stupid shit. I mean, he'd just turn over ass up in your face. He wouldn't give a fuck!",
+      "speaker": "John Krasinski",
+      "character": "Jamaal",
+      "source": "Me, Myself & Irene",
+      "year": 2000,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 529,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I always liked you. You were always the best of them. Best goddamned bartender from Timbuktu to Portland, Maine. Or Portland, Oregon, for that matter.",
+      "speaker": "Jack Nicholson",
+      "character": "Jack Torrance",
+      "source": "The Shining",
+      "year": 1980,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 530,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Picture a girl who took a nosedive from the ugly tree and hit every branch on the way down.",
+      "speaker": "Matt Damon",
+      "character": "Private Ryan",
+      "source": "Saving Private Ryan",
+      "year": 1998,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 531,
+      "streaming_checked": true
+    },
+    {
+      "quote": "One night, I'm gonna come to you, inside of your house, wherever you're sleeping, and I'm going to cut your throat.",
+      "speaker": "Daniel Day-Lewis",
+      "character": "Daniel Plainview",
+      "source": "There Will Be Blood",
+      "year": 2007,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 532,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Do you think I'd speak for you? I don't even know your language.",
+      "speaker": "Anthony Michael Hall",
+      "character": "Bender",
+      "source": "The Breakfast Club",
+      "year": 1985,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 533,
+      "streaming_checked": true
+    },
+    {
+      "quote": "If you lose the last game of the season nobody gives a shit.",
+      "speaker": "Brad Pitt",
+      "character": "Billy Beane",
+      "source": "Moneyball",
+      "year": 2011,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 534,
+      "streaming_checked": true
+    },
+    {
+      "quote": "It's magnificent. With death comes gratitude for life. If a man has lived in vain, then how trivial is his life?",
+      "speaker": "Hiroyuki Sanada",
+      "character": "Lord Naritsugu Matsudaira",
+      "source": "13 Assassins",
+      "year": 2010,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 535,
+      "streaming_checked": true
+    },
+    {
+      "quote": "That's the first thing you've said the last four hours. That's a fountain of conversation. That's a geyser. Woah daddy stand back.",
+      "speaker": "Steve Buscemi",
+      "character": "Carl Showalter",
+      "source": "Fargo",
+      "year": 1996,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 536,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Boys, you must strive to find your own voice, because the longer you wait to begin, the less likely you are to find it at all.",
+      "speaker": "Robin Williams",
+      "character": "John Keating",
+      "source": "Dead Poets Society",
+      "year": 1989,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 537,
+      "streaming_checked": true
+    },
+    {
+      "quote": "It feels like a thousand baby wizards are massaging my ass cheeks with their little baby wands.",
+      "speaker": "Ben Stiller",
+      "character": "Franklin",
+      "source": "The Watch",
+      "year": 2012,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 538,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I realize now how much she is just like the others, cold, distant, and many people are like that, women for sure, they're like a union.",
+      "speaker": "Robert De Niro",
+      "character": "Travis Bickle",
+      "source": "Taxi Driver",
+      "year": 1976,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 539,
+      "streaming_checked": true
+    },
+    {
+      "quote": "God... I look like the robot from Aliens.",
+      "speaker": "Seth MacFarlane",
+      "character": "Ted",
+      "source": "Ted",
+      "year": 2012,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 540,
+      "streaming_checked": true
+    },
+    {
+      "quote": "What are you, people? On dope?",
+      "speaker": "Robert Hays",
+      "character": "Mr. Hand",
+      "source": "Fast Times at Ridgemont High",
+      "year": 1982,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 541,
+      "streaming_checked": true
+    },
+    {
+      "quote": "All energy flows according to the whims of the Great Magnet. What a fool I was to defy him.",
+      "speaker": "Benicio Del Toro",
+      "character": "Raoul Duke",
+      "source": "Fear and Loathing in Las Vegas",
+      "year": 1998,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 542,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Sometimes I wonder... will God ever forgive us for what we've done to each other? Then I look around and I realize... God left this place a long time ago.",
+      "speaker": "Leonardo DiCaprio",
+      "character": "Danny Archer",
+      "source": "Blood Diamond",
+      "year": 2006,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 543,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I was going to listen to that, but then um, I just carried on living my life.",
+      "speaker": "Jason Segel",
+      "character": "Aldous Snow",
+      "source": "Forgetting Sarah Marshall",
+      "year": 2008,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 544,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Bertram got really into the 60s, and no one ever saw him again.",
+      "speaker": "Tom Guiry",
+      "character": "Narrator",
+      "source": "The Sandlot",
+      "year": 1993,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 545,
+      "streaming_checked": true
+    },
+    {
+      "quote": "The thing that haunts a guy is the stuff he wasn't ordered to do.",
+      "speaker": "Clint Eastwood",
+      "character": "Walt Kowalski",
+      "source": "Gran Torino",
+      "year": 2008,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 546,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I'll dig the hole. I don't give a fuck.",
+      "speaker": "Ray Liotta",
+      "character": "Tommy DeVito",
+      "source": "Goodfellas",
+      "year": 1990,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 547,
+      "streaming_checked": true
+    },
+    {
+      "quote": "What kind of hippie am I? Man, I'm a business hippie, I understand the concept of supply and demand.",
+      "speaker": "John Cho",
+      "character": "Kumar Patel",
+      "source": "Harold & Kumar Go to White Castle",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 548,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You shoot me in a dream, you better wake up and apologize.",
+      "speaker": "Harvey Keitel",
+      "character": "Mr. White",
+      "source": "Reservoir Dogs",
+      "year": 1992,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 549,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Seven bucks? Are you fucking serious? This isn't enough for anything. What are you, a 6-year-old?",
+      "speaker": "Jonah Hill",
+      "character": "Seth",
+      "source": "Superbad",
+      "year": 2007,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 550,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Certainty of death, small chance of success... What are we waiting for?",
+      "speaker": "Orlando Bloom",
+      "character": "Legolas",
+      "source": "Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 551,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Not that I condone fascism, or any ism for that matter. Isms in my opinion are not good. A person should not believe in an ism, he should believe in himself.",
+      "speaker": "Matthew Broderick",
+      "character": "Ferris Bueller",
+      "source": "Ferris Bueller's Day Off",
+      "year": 1986,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 552,
+      "streaming_checked": true
+    },
+    {
+      "quote": "If you leave me now, in the next life you will be my sworn enemy. And I will show you no mercy.",
+      "speaker": "Philip Seymour Hoffman",
+      "character": "Lancaster Dodd",
+      "source": "The Master",
+      "year": 2012,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 553,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I'm not stupid, I know everyone thinks I am, I just don't like answering stupid questions.",
+      "speaker": "Andre Benjamin",
+      "character": "Hector Zeroni",
+      "source": "Holes",
+      "year": 2003,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 554,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You think you're hot shit?",
+      "speaker": "Sean Hayes",
+      "character": "Carney",
+      "source": "Sex Drive",
+      "year": 2008,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 555,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Fucking dipshit with a nine-toed woman.",
+      "speaker": "John Goodman",
+      "character": "Walter Sobchak",
+      "source": "The Big Lebowski",
+      "year": 1998,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 556,
+      "streaming_checked": true
+    },
+    {
+      "quote": "We have all our rotten eggs in one basket. The objective of the operation: blow up the basket.",
+      "speaker": "Brad Pitt",
+      "character": "General Ed Fenech",
+      "source": "Inglourious Basterds",
+      "year": 2009,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 557,
+      "streaming_checked": true
+    },
+    {
+      "quote": "That's the way it crumbles... cookie-wise.",
+      "speaker": "Jack Lemmon",
+      "character": "C.C. Baxter",
+      "source": "The Apartment",
+      "year": 1960,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 558,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Oh, but I'm an atheist, maybe more of a pragmatic nihilist I guess or an existential pagan if you will.",
+      "speaker": "Jesse Eisenberg",
+      "character": "Joel",
+      "source": "Adventureland",
+      "year": 2009,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 559,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Even if you gave him the money he'd still kill you. He's a peculiar man. You could even say that he has principles.",
+      "speaker": "Josh Brolin",
+      "character": "Carson Wells",
+      "source": "No Country for Old Men",
+      "year": 2007,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 560,
+      "streaming_checked": true
+    },
+    {
+      "quote": "And after I pull off that miracle, maybe I'll go punch out God.",
+      "speaker": "Bruce Willis",
+      "character": "John Hartigan",
+      "source": "Sin City",
+      "year": 2005,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 561,
+      "streaming_checked": true
+    },
+    {
+      "quote": "When we go to Morocco, I think we should have completely different names and be completely different people.",
+      "speaker": "Kate Hudson",
+      "character": "Penny Lane",
+      "source": "Almost Famous",
+      "year": 2000,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 562,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You picked the wrong man to push.",
+      "speaker": "Carl Weathers",
+      "character": "Trautman",
+      "source": "First Blood",
+      "year": 1982,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 563,
+      "streaming_checked": true
+    },
+    {
+      "quote": "We are trying to show them a good time, not ruin their fucking lives.",
+      "speaker": "Jonah Hill",
+      "character": "Schmidt",
+      "source": "21 Jump Street",
+      "year": 2012,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 564,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I'm a fucking piece of shit. And that's who I am.",
+      "speaker": "T.I.",
+      "character": "Young Antonio",
+      "source": "A Guide to Recognizing Your Saints",
+      "year": 2006,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 565,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Don't fish eat other fish? The marlins and the trout!",
+      "speaker": "Justin Timberlake",
+      "character": "Eduardo Saverin",
+      "source": "The Social Network",
+      "year": 2010,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 566,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Man I just gave your momma a piggy-back ride and she weighs twice as much as I do!",
+      "speaker": "Will Smith",
+      "character": "Louie Lastik",
+      "source": "Remember the Titans",
+      "year": 2000,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 567,
+      "streaming_checked": true
+    },
+    {
+      "quote": "It's just that, the last time this was here, it was being signed.",
+      "speaker": "Nicolas Cage",
+      "character": "Benjamin Gates",
+      "source": "National Treasure",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 568,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Just think of millenniums multiplied by eons compounded by time without end. I've been around that long. But it's only recently your affairs here have piqued my interest.",
+      "speaker": "Anthony Hopkins",
+      "character": "Death",
+      "source": "Meet Joe Black",
+      "year": 1998,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 569,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Let's get some of that Saturday night beaver.",
+      "speaker": "Don Cheadle",
+      "character": "Chest Rockwell",
+      "source": "Boogie Nights",
+      "year": 1997,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 570,
+      "streaming_checked": true
+    },
+    {
+      "quote": "The artist's job is not to succumb to despair but to find an antidote for the emptiness of existence.",
+      "speaker": "Marion Cotillard",
+      "character": "Gertrude Stein",
+      "source": "Midnight in Paris",
+      "year": 2011,
+      "categories": [
+        "motivational"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 571,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Bite your teeth into the ass of life.",
+      "speaker": "Stanley Tucci",
+      "character": "Pascal",
+      "source": "Big Night",
+      "year": 1996,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 572,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Oh, it's awesome. The little dudes are just eggs, we leave 'em on a beach to hatch, and then, coo-coo-cachoo, they find their way back to the big ol' blue.",
+      "speaker": "Ellen DeGeneres",
+      "character": "Crush",
+      "source": "Finding Nemo",
+      "year": 2003,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 573,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I didn't think drugs and alcohol were such a big deal they had to resort to Neo-McCarthyism to get rid of it.",
+      "speaker": "Matthew McConaughey",
+      "character": "Mike",
+      "source": "Dazed and Confused",
+      "year": 1993,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 574,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Any world that can produce the Taj Mahal, William Shakespeare, and Stripe toothpaste can't be all bad.",
+      "speaker": "Curd Jürgens",
+      "character": "C.R. MacNamara",
+      "source": "One, Two, Three",
+      "year": 1961,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 575,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Well, as far as brains go, I got the lion's share. But when it comes to brute strength... I'm afraid I'm at the shallow end of the gene pool.",
+      "speaker": "Jeremy Irons",
+      "character": "Scar",
+      "source": "The Lion King",
+      "year": 1994,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Disney+"
+      ],
+      "id": 576,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You didn't think I was what? Serious? You think I'm not serious because I carry a rabbit?",
+      "speaker": "Christopher Walken",
+      "character": "Zachariah",
+      "source": "Seven Psychopaths",
+      "year": 2012,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 577,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I don't believe in that sort of thing personally. Astronomy is one of the many tools of the devil.",
+      "speaker": "Burt Reynolds",
+      "character": "Mama Boucher",
+      "source": "The Waterboy",
+      "year": 1998,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Paramount+"
+      ],
+      "id": 578,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Tell me, what's Curious George like in real life?",
+      "speaker": "Steve Carell",
+      "character": "Cal Weathers",
+      "source": "The 40-Year-Old Virgin",
+      "year": 2005,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 579,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I don't get it. He's eight years old and he smells like Robert Downey Jr.",
+      "speaker": "Surgery Nurse",
+      "character": "Surgery Nurse",
+      "source": "BASEketball",
+      "year": 1998,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 580,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Of course he has a turtle.",
+      "speaker": "Paul Rudd",
+      "character": "Ronnie",
+      "source": "Role Models",
+      "year": 2008,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 581,
+      "streaming_checked": true
+    },
+    {
+      "quote": "That is the worst idea I've ever heard in my life, Michael.",
+      "speaker": "Ron Livingston",
+      "character": "Michael Bolton",
+      "source": "Office Space",
+      "year": 1999,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 582,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I just don't see how having somebody piss on my face is going to help me sell Lou Ferrigno's house.",
+      "speaker": "Paul Rudd",
+      "character": "Peter Klaven",
+      "source": "I Love You, Man",
+      "year": 2009,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 583,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You still think it's beautiful to die for your country. The first bombardment taught us better. When it comes to dying for country, it's better not to die at all.",
+      "speaker": "Louis Wolffer",
+      "character": "Paul Baumer",
+      "source": "All Quiet on the Western Front",
+      "year": 1930,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 584,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I'm really nervous that you're gonna hate me soon. You're gonna find stuff out about me and you're gonna hate me.",
+      "speaker": "Frankie Moore",
+      "character": "Claudia Wilson-Gator",
+      "source": "Magnolia",
+      "year": 1999,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 585,
+      "streaming_checked": true
+    },
+    {
+      "quote": "It's great, living. Get your heart broken, find yourself face down in the gutter, get your balls sucked, make a real mess of a life.",
+      "speaker": "Brendan Fraser",
+      "character": "Dr. Squires",
+      "source": "The Wackness",
+      "year": 2008,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 586,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Trust? Gentlemen, you seem to have forgotten that our chosen career is politics.",
+      "speaker": "Tommy Lee Jones",
+      "character": "Thaddeus Stevens",
+      "source": "Lincoln",
+      "year": 2012,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 587,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Why do I fall in love with every woman I see who shows me the least bit of attention?",
+      "speaker": "Jim Carrey",
+      "character": "Joel Barish",
+      "source": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 588,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I don't believe I have to be loyal to one side or the other. I'm simply asking questions.",
+      "speaker": "Ed Begley Jr.",
+      "character": "Juror #11",
+      "source": "12 Angry Men",
+      "year": 1957,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 589,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Spying on 30 million people isn't part of my job description.",
+      "speaker": "Morgan Freeman",
+      "character": "Lucius Fox",
+      "source": "The Dark Knight",
+      "year": 2008,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Max"
+      ],
+      "id": 590,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I can't remember to forget you.",
+      "speaker": "Guy Pearce",
+      "character": "Leonard Shelby",
+      "source": "Memento",
+      "year": 2000,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 591,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Well, actually, Janine is Senior Drive-thru Manager so you kind of are on her turf.",
+      "speaker": "Kurt Russell",
+      "character": "Lester Burnham",
+      "source": "American Beauty",
+      "year": 1999,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 592,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Oak's Nice.",
+      "speaker": "Travolta",
+      "character": "Vincent Vega",
+      "source": "Pulp Fiction",
+      "year": 1994,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 593,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Yeah, uh, I had to dismember that guy with a trowel. What have you been up to?",
+      "speaker": "Chris Hemsworth",
+      "character": "Marty",
+      "source": "The Cabin in the Woods",
+      "year": 2012,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 594,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Yeah, a landlord's dream: a paralyzed tenant with no tongue.",
+      "speaker": "Andrew Kevin Walker",
+      "character": "David Mills",
+      "source": "Se7en",
+      "year": 1995,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 595,
+      "streaming_checked": true
+    },
+    {
+      "quote": "My ass may be dumb, but I ain't no dumb ass.",
+      "speaker": "Pumpkin",
+      "character": "Ordell",
+      "source": "Jackie Brown",
+      "year": 1997,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 596,
+      "streaming_checked": true
+    },
+    {
+      "quote": "The core of man's spirit comes from new experiences.",
+      "speaker": "Emile Hirsch",
+      "character": "Christopher McCandless",
+      "source": "Into the Wild",
+      "year": 2007,
+      "categories": [
+        "serious"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 597,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Adrenaline is nature's way of telling you 'don't fuck up.'",
+      "speaker": "Aaron Paul",
+      "character": "Chon",
+      "source": "Savages",
+      "year": 2012,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 598,
+      "streaming_checked": true
+    },
+    {
+      "quote": "You're smarter than you look, Marshal. That's probably not a good thing.",
+      "speaker": "Emily Mortimer",
+      "character": "Rachel Inmon",
+      "source": "Shutter Island",
+      "year": 2010,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 599,
+      "streaming_checked": true
+    },
+    {
+      "quote": "Donde está la biblioteca.",
+      "speaker": "White Goodman",
+      "character": "White Goodman",
+      "source": "Dodgeball",
+      "year": 2004,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Prime Video"
+      ],
+      "id": 600,
+      "streaming_checked": true
+    },
+    {
+      "quote": "I'll tell you what. Why don't we take all these bricks and build a shelter for the homeless, so maybe your mother will have a place to stay.",
+      "speaker": "Woody Harrelson",
+      "character": "Billy Hoyle",
+      "source": "White Men Can't Jump",
+      "year": 1992,
+      "categories": [
+        "funny"
+      ],
+      "streaming": [
+        "Tubi"
+      ],
+      "id": 601,
       "streaming_checked": true
     }
   ]
